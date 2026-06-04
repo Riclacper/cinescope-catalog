@@ -567,7 +567,7 @@ function App() {
             <strong>Ricardo Lacerda Pereira</strong>
           </div>
           <div>
-            <span>REFERENCIA</span>
+            <span>MENTOR</span>
             <strong>Marlon Santini</strong>
           </div>
           <div>
