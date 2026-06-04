@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import {
   Calendar,
+  ChevronDown,
   Clapperboard,
   Clock3,
   Heart,
@@ -228,6 +229,7 @@ const movies = catalog.map((movie, index) => {
 
 const genres = ['Todos', ...Array.from(new Set(movies.map((movie) => movie.genre)))];
 const statusOptions = ['Todos', ...Array.from(new Set(movies.map((movie) => movie.status)))];
+const itemsPerPage = 10;
 
 function formatDuration(minutes) {
   const hours = Math.floor(minutes / 60);
@@ -242,6 +244,8 @@ function App() {
   const [sort, setSort] = useState('rating');
   const [selectedMovie, setSelectedMovie] = useState(movies[0]);
   const [detailMovie, setDetailMovie] = useState(null);
+  const [openFilter, setOpenFilter] = useState(null);
+  const [currentPage, setCurrentPage] = useState(1);
   const [favorites, setFavorites] = useState(new Set([1, 4, 7]));
 
   const filteredMovies = useMemo(() => {
@@ -268,6 +272,19 @@ function App() {
 
   const averageRating = (movies.reduce((sum, movie) => sum + movie.rating, 0) / movies.length).toFixed(1);
   const totalHours = Math.round(movies.reduce((sum, movie) => sum + movie.duration, 0) / 60);
+  const totalPages = Math.max(1, Math.ceil(filteredMovies.length / itemsPerPage));
+  const pageStart = (currentPage - 1) * itemsPerPage;
+  const paginatedMovies = filteredMovies.slice(pageStart, pageStart + itemsPerPage);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [genre, query, sort, status]);
+
+  useEffect(() => {
+    if (currentPage > totalPages) {
+      setCurrentPage(totalPages);
+    }
+  }, [currentPage, totalPages]);
 
   useEffect(() => {
     if (!detailMovie) return undefined;
@@ -297,6 +314,16 @@ function App() {
       }
       return next;
     });
+  }
+
+  function chooseFilter(type, value) {
+    if (type === 'genre') {
+      setGenre(value);
+    } else {
+      setStatus(value);
+    }
+
+    setOpenFilter(null);
   }
 
   return (
@@ -398,18 +425,29 @@ function App() {
               <SlidersHorizontal size={16} />
               <span>Genero</span>
             </div>
-            <div className="filter-chips">
+            <button
+              className="filter-trigger"
+              onClick={() => setOpenFilter(openFilter === 'genre' ? null : 'genre')}
+              type="button"
+              aria-expanded={openFilter === 'genre'}
+            >
+              <span>{genre === 'Todos' ? 'Todos os generos' : genre}</span>
+              <ChevronDown size={17} />
+            </button>
+            {openFilter === 'genre' && (
+              <div className="filter-menu">
               {genres.map((item) => (
                 <button
                   className={genre === item ? 'active' : ''}
                   key={item}
-                  onClick={() => setGenre(item)}
+                  onClick={() => chooseFilter('genre', item)}
                   type="button"
                 >
                   {item === 'Todos' ? 'Todos os generos' : item}
                 </button>
               ))}
-            </div>
+              </div>
+            )}
           </div>
 
           <div className="filter-group" aria-label="Filtro por status">
@@ -417,18 +455,29 @@ function App() {
               <Sparkles size={16} />
               <span>Status</span>
             </div>
-            <div className="filter-chips">
+            <button
+              className="filter-trigger"
+              onClick={() => setOpenFilter(openFilter === 'status' ? null : 'status')}
+              type="button"
+              aria-expanded={openFilter === 'status'}
+            >
+              <span>{status === 'Todos' ? 'Todos os status' : status}</span>
+              <ChevronDown size={17} />
+            </button>
+            {openFilter === 'status' && (
+              <div className="filter-menu">
               {statusOptions.map((item) => (
                 <button
                   className={status === item ? 'active' : ''}
                   key={item}
-                  onClick={() => setStatus(item)}
+                  onClick={() => chooseFilter('status', item)}
                   type="button"
                 >
                   {item === 'Todos' ? 'Todos os status' : item}
                 </button>
               ))}
-            </div>
+              </div>
+            )}
           </div>
 
           <div className="segmented" aria-label="Ordenacao">
@@ -445,7 +494,7 @@ function App() {
         </div>
 
         <div className="movie-grid">
-          {filteredMovies.map((movie) => (
+          {paginatedMovies.map((movie) => (
             <article
               className={movie.id === selectedMovie.id ? 'movie-card selected' : 'movie-card'}
               key={movie.id}
@@ -488,13 +537,37 @@ function App() {
           </div>
         )}
 
+        {filteredMovies.length > 0 && (
+          <div className="pagination" aria-label="Paginacao do catalogo">
+            <span>
+              Mostrando {pageStart + 1}-{Math.min(pageStart + itemsPerPage, filteredMovies.length)} de{' '}
+              {filteredMovies.length}
+            </span>
+            <div>
+              <button disabled={currentPage === 1} onClick={() => setCurrentPage((page) => page - 1)} type="button">
+                Anterior
+              </button>
+              <strong>
+                {currentPage} / {totalPages}
+              </strong>
+              <button
+                disabled={currentPage === totalPages}
+                onClick={() => setCurrentPage((page) => page + 1)}
+                type="button"
+              >
+                Proxima
+              </button>
+            </div>
+          </div>
+        )}
+
         <footer className="project-credits">
           <div className="credits-brand">
             <span>CineScope Catalog</span>
             <strong>Ricardo Lacerda Pereira</strong>
           </div>
           <div>
-            <span>Orientador</span>
+            <span>REFERENCIA</span>
             <strong>Marlon Santini</strong>
           </div>
           <div>

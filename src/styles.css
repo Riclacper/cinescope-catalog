@@ -385,6 +385,7 @@ h2 {
 }
 
 .filter-group {
+  position: relative;
   display: grid;
   gap: 8px;
   min-width: 0;
@@ -405,17 +406,42 @@ h2 {
   text-transform: uppercase;
 }
 
-.filter-chips {
+.filter-trigger {
   display: flex;
-  gap: 7px;
-  overflow-x: auto;
-  max-width: 100%;
-  padding-bottom: 2px;
-  scrollbar-width: thin;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  min-height: 38px;
+  border: 1px solid #303137;
+  border-radius: 8px;
+  background: #18191d;
+  color: #f8f3ea;
+  padding: 0 10px;
+  font-size: 0.9rem;
+  font-weight: 800;
+  text-align: left;
 }
 
-.filter-chips button {
-  flex: 0 0 auto;
+.filter-trigger span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.filter-trigger[aria-expanded="true"] {
+  border-color: rgba(242, 184, 75, 0.82);
+}
+
+.filter-menu {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 7px;
+  max-height: 230px;
+  overflow-y: auto;
+  padding-top: 2px;
+}
+
+.filter-menu button {
   min-height: 34px;
   border: 1px solid #303137;
   border-radius: 8px;
@@ -424,10 +450,10 @@ h2 {
   padding: 0 10px;
   font-size: 0.84rem;
   font-weight: 800;
-  white-space: nowrap;
+  text-align: left;
 }
 
-.filter-chips button.active {
+.filter-menu button.active {
   border-color: rgba(242, 184, 75, 0.82);
   background: #f2b84b;
   color: #17120b;
@@ -544,6 +570,46 @@ h3 {
   border: 1px dashed #3b3c43;
   border-radius: 8px;
   color: #bbb3a8;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-top: 28px;
+  padding: 14px;
+  border: 1px solid #292a30;
+  border-radius: 8px;
+  background: rgba(20, 21, 24, 0.82);
+  color: #bfb6ab;
+  font-size: 0.9rem;
+}
+
+.pagination div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pagination button {
+  min-height: 36px;
+  border: 1px solid #303137;
+  border-radius: 8px;
+  background: #18191d;
+  color: #f8f3ea;
+  padding: 0 12px;
+  font-weight: 800;
+}
+
+.pagination button:disabled {
+  cursor: not-allowed;
+  opacity: 0.42;
+}
+
+.pagination strong {
+  color: #f2b84b;
+  font-size: 0.88rem;
 }
 
 .project-credits {
@@ -952,14 +1018,19 @@ h3 {
     padding: 10px;
   }
 
-  .filter-chips {
-    width: 100%;
+  .filter-trigger {
+    min-height: 38px;
+    font-size: 0.86rem;
   }
 
-  .filter-chips button {
-    min-height: 32px;
-    padding-inline: 9px;
-    font-size: 0.8rem;
+  .filter-menu {
+    grid-template-columns: 1fr;
+    max-height: 220px;
+  }
+
+  .filter-menu button {
+    min-height: 34px;
+    font-size: 0.82rem;
   }
 
   .segmented button {
@@ -1010,6 +1081,19 @@ h3 {
     flex-direction: column;
     gap: 4px;
     font-size: 0.82rem;
+  }
+
+  .pagination {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .pagination div {
+    justify-content: space-between;
+  }
+
+  .pagination button {
+    flex: 1;
   }
 
   .project-credits {
