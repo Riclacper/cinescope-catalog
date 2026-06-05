@@ -1,17 +1,17 @@
 # CineScope Catalog
 
-Catalogo de filmes desenvolvido com React e Vite, usando dados e imagens da TMDb API. O projeto apresenta uma interface responsiva para consulta de filmes, filtros, ordenacao, paginacao e visualizacao detalhada em modal.
+Catálogo de filmes desenvolvido com React e Vite, usando dados e imagens da TMDb API. O projeto apresenta uma interface responsiva para consulta de filmes, filtros, ordenação, paginação e visualização detalhada em modal.
 
 ## Funcionalidades
 
-- Catalogo com 100 filmes
+- Catálogo com 100 filmes
 - Capas e backdrops reais sincronizados pela TMDb API
-- Busca por titulo, diretor, elenco ou genero
-- Filtros por genero e status
-- Ordenacao por nota, ano ou duracao
-- Paginacao com 10 filmes por pagina
-- Modal de detalhes com sinopse, elenco, direcao, nota, ano e duracao
-- Acao de favorito em destaque e nos cards
+- Busca por título, diretor, elenco ou gênero
+- Filtros por gênero e status
+- Ordenação por nota, ano ou duração
+- Paginação com 10 filmes por página
+- Modal de detalhes com sinopse, elenco, direção, nota, ano e duração
+- Ação de favorito em destaque e nos cards
 - Layout responsivo para desktop, tablet e mobile
 
 ## Tecnologias
@@ -24,7 +24,7 @@ Catalogo de filmes desenvolvido com React e Vite, usando dados e imagens da TMDb
 
 ## Como Rodar Localmente
 
-Instale as dependencias:
+Instale as dependências:
 
 ```bash
 npm install
@@ -42,11 +42,11 @@ Abra no navegador:
 http://localhost:5173/
 ```
 
-Se a porta `5173` estiver ocupada, o Vite usara automaticamente a proxima porta disponivel.
+Se a porta `5173` estiver ocupada, o Vite usará automaticamente a próxima porta disponível.
 
-## Build de Producao
+## Build de Produção
 
-Para gerar a versao final:
+Para gerar a versão final:
 
 ```bash
 npm run build
@@ -58,7 +58,7 @@ Para visualizar o build localmente:
 npm run preview
 ```
 
-## Sincronizacao com TMDb
+## Sincronização com TMDb
 
 O projeto possui um script para buscar dados e imagens reais dos filmes na TMDb API:
 
@@ -72,9 +72,9 @@ Para usar esse script, crie um arquivo `.env.local` na raiz do projeto com:
 TMDB_API_KEY=sua_chave_tmdb
 ```
 
-O arquivo `.env.local` esta no `.gitignore` e nao deve ser enviado ao GitHub.
+O arquivo `.env.local` está no `.gitignore` e não deve ser enviado ao GitHub.
 
-Os dados sincronizados sao gravados em:
+Os dados sincronizados são gravados em:
 
 ```text
 src/tmdbMovies.json
@@ -82,19 +82,19 @@ src/tmdbMovies.json
 
 ## Deploy
 
-Configuracao recomendada para Vercel:
+Configuração recomendada para Vercel:
 
 - Framework Preset: `Vite`
 - Install Command: `npm install`
 - Build Command: `npm run build`
 - Output Directory: `dist`
 
-Nao e necessario configurar variaveis de ambiente na Vercel para o deploy atual, pois os dados ja estao salvos em `src/tmdbMovies.json`.
+Não é necessário configurar variáveis de ambiente na Vercel para o deploy atual, pois os dados já estão salvos em `src/tmdbMovies.json`.
 
-## Creditos
+## Créditos
 
 - Desenvolvido por: Ricardo Lacerda Pereira
 - Mentor: Marlon Santini
 - Dados e imagens: TMDb API
 
-Este produto utiliza a API do TMDb, mas nao e endossado ou certificado pela TMDb.
+Este produto utiliza a API do TMDb, mas não é endossado ou certificado pela TMDb.
