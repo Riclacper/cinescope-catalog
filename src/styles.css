@@ -341,9 +341,11 @@ h2 {
 }
 
 .toolbar {
+  position: relative;
   min-width: 0;
+  align-items: center;
   gap: 12px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   margin-bottom: 26px;
   padding: 12px;
   border: 1px solid #28292e;
@@ -361,7 +363,7 @@ h2 {
 }
 
 .search-field {
-  flex: 1 1 280px;
+  flex: 1 1 300px;
   gap: 9px;
   padding: 0 12px;
 }
@@ -380,6 +382,7 @@ h2 {
 }
 
 .segmented {
+  flex: 0 0 auto;
   min-width: 0;
   min-height: 44px;
   gap: 4px;
@@ -394,7 +397,7 @@ h2 {
   display: grid;
   gap: 8px;
   min-width: 0;
-  flex: 1 1 310px;
+  flex: 0 1 270px;
   padding: 10px;
   border: 1px solid #303137;
   border-radius: 8px;
@@ -438,12 +441,21 @@ h2 {
 }
 
 .filter-menu {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  z-index: 20;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 7px;
   max-height: 230px;
   overflow-y: auto;
-  padding-top: 2px;
+  padding: 10px;
+  border: 1px solid #303137;
+  border-radius: 8px;
+  background: #111215;
+  box-shadow: 0 22px 52px rgba(0, 0, 0, 0.42);
 }
 
 .filter-menu button {
@@ -987,6 +999,20 @@ h3 {
   }
 }
 
+@media (max-width: 1020px) {
+  .toolbar {
+    flex-wrap: wrap;
+  }
+
+  .search-field {
+    flex-basis: 100%;
+  }
+
+  .filter-group {
+    flex: 1 1 260px;
+  }
+}
+
 @media (max-width: 560px) {
   .app-shell * {
     max-width: 100%;
@@ -1074,6 +1100,7 @@ h3 {
     align-items: stretch;
     flex-direction: column;
     gap: 10px;
+    flex-wrap: nowrap;
   }
 
   .search-field {
@@ -1103,8 +1130,12 @@ h3 {
   }
 
   .filter-menu {
+    position: static;
     grid-template-columns: 1fr;
     max-height: 220px;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
   }
 
   .filter-menu button {
