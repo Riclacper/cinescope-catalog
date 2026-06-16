@@ -1,6 +1,6 @@
 # CineScope Catalog
 
-Catálogo de filmes desenvolvido com React e Vite, usando dados e imagens da TMDb API. O projeto apresenta uma interface responsiva para consulta de filmes, filtros, ordenação, paginação e visualização detalhada em modal.
+Catálogo de filmes desenvolvido com React e Vite, usando dados, capas, backdrops e trailers sincronizados pela TMDb API. O projeto apresenta uma interface responsiva para consulta de filmes, filtros, ordenação, paginação, visualização detalhada em modal e reprodução de trailers.
 
 ## Funcionalidades
 
@@ -11,9 +11,19 @@ Catálogo de filmes desenvolvido com React e Vite, usando dados e imagens da TMD
 - Ordenação por nota, ano ou duração
 - Paginação com 10 filmes por página
 - Modal de detalhes com sinopse, elenco, direção, nota, ano e duração
-- Player de trailer em tela com fechamento por clique fora, botão X ou tecla Esc
+- Player de trailer em tela, com fechamento por clique fora, botão X ou tecla Esc
+- Trailers priorizados em português do Brasil e fallback para inglês quando necessário
 - Ação de favorito em destaque e nos cards
 - Layout responsivo para desktop, tablet e mobile
+
+## Status do Catálogo
+
+- Filmes cadastrados: 100
+- Posters sincronizados: 100
+- Backdrops sincronizados: 100
+- Trailers sincronizados: 99
+- Trailers em `pt-BR`: 73
+- Trailers em `en-US`: 26
 
 ## Tecnologias
 
@@ -59,6 +69,32 @@ Para visualizar o build localmente:
 npm run preview
 ```
 
+## Scripts Disponíveis
+
+```bash
+npm run dev
+```
+
+Inicia o servidor local de desenvolvimento.
+
+```bash
+npm run build
+```
+
+Gera a versão de produção na pasta `dist`.
+
+```bash
+npm run preview
+```
+
+Executa uma prévia local do build de produção.
+
+```bash
+npm run sync:tmdb
+```
+
+Sincroniza dados, imagens e trailers dos filmes usando a TMDb API.
+
 ## Sincronização com TMDb
 
 O projeto possui um script para buscar dados, imagens reais e trailers dos filmes na TMDb API:
@@ -82,6 +118,28 @@ src/tmdbMovies.json
 ```
 
 Os trailers são buscados primeiro em `pt-BR`. Quando não há vídeo em português do Brasil, o script usa o primeiro trailer disponível em `en-US`.
+
+## Estrutura Principal
+
+```text
+.
+├── scripts/
+│   └── sync-tmdb.js
+├── src/
+│   ├── main.jsx
+│   ├── styles.css
+│   └── tmdbMovies.json
+├── index.html
+├── package.json
+└── README.md
+```
+
+## Observações
+
+- A chave da TMDb deve ficar apenas em `.env.local`.
+- O arquivo `.env.local` está ignorado pelo Git.
+- O frontend publicado não precisa acessar a chave da TMDb, pois os dados sincronizados ficam salvos em `src/tmdbMovies.json`.
+- O player usa trailers hospedados no YouTube e referenciados pela TMDb.
 
 ## Deploy
 
