@@ -6,6 +6,7 @@ import {
   Clapperboard,
   Clock3,
   Heart,
+  Play,
   Search,
   SlidersHorizontal,
   Sparkles,
@@ -224,6 +225,7 @@ const movies = catalog.map((movie, index) => {
     description: tmdbMovie?.overview ?? movie.description,
     image: tmdbMovie?.poster ?? createPoster(movie, index),
     backdrop: tmdbMovie?.backdrop ?? createBackdrop(movie, index),
+    trailer: tmdbMovie?.trailer ?? null,
   };
 });
 
@@ -244,6 +246,7 @@ function App() {
   const [sort, setSort] = useState('rating');
   const [selectedMovie, setSelectedMovie] = useState(movies[0]);
   const [detailMovie, setDetailMovie] = useState(null);
+  const [trailerMovie, setTrailerMovie] = useState(null);
   const [openFilter, setOpenFilter] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
   const [favorites, setFavorites] = useState(new Set([1, 4, 7]));
@@ -287,11 +290,12 @@ function App() {
   }, [currentPage, totalPages]);
 
   useEffect(() => {
-    if (!detailMovie) return undefined;
+    if (!detailMovie && !trailerMovie) return undefined;
 
     function handleKeyDown(event) {
       if (event.key === 'Escape') {
         setDetailMovie(null);
+        setTrailerMovie(null);
       }
     }
 
@@ -302,7 +306,7 @@ function App() {
       document.body.style.overflow = '';
       window.removeEventListener('keydown', handleKeyDown);
     };
-  }, [detailMovie]);
+  }, [detailMovie, trailerMovie]);
 
   function toggleFavorite(movieId) {
     setFavorites((current) => {
@@ -324,6 +328,11 @@ function App() {
     }
 
     setOpenFilter(null);
+  }
+
+  function openTrailer(movie) {
+    if (!movie.trailer?.embedUrl) return;
+    setTrailerMovie(movie);
   }
 
   return (
@@ -373,6 +382,15 @@ function App() {
               <div className="hero-actions">
                 <button className="primary-button" onClick={() => setDetailMovie(selectedMovie)}>
                   Ver detalhes
+                </button>
+                <button
+                  className="secondary-button"
+                  disabled={!selectedMovie.trailer?.embedUrl}
+                  onClick={() => openTrailer(selectedMovie)}
+                  title={selectedMovie.trailer?.embedUrl ? 'Assistir trailer' : 'Trailer indisponivel'}
+                >
+                  <Play size={18} fill="currentColor" />
+                  Trailer
                 </button>
                 <button
                   className="secondary-button"
@@ -636,6 +654,15 @@ function App() {
               <div className="detail-actions">
                 <button
                   className="secondary-button"
+                  disabled={!detailMovie.trailer?.embedUrl}
+                  onClick={() => openTrailer(detailMovie)}
+                  title={detailMovie.trailer?.embedUrl ? 'Assistir trailer' : 'Trailer indisponivel'}
+                >
+                  <Play size={18} fill="currentColor" />
+                  Trailer
+                </button>
+                <button
+                  className="secondary-button"
                   onClick={() => toggleFavorite(detailMovie.id)}
                   aria-pressed={favorites.has(detailMovie.id)}
                 >
@@ -643,6 +670,35 @@ function App() {
                   Favorito
                 </button>
               </div>
+            </div>
+          </section>
+        </div>
+      )}
+
+      {trailerMovie && (
+        <div className="player-overlay" role="presentation" onClick={() => setTrailerMovie(null)}>
+          <section
+            className="player-dialog"
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby="player-title"
+            onClick={(event) => event.stopPropagation()}
+          >
+            <button className="detail-close" aria-label="Fechar player" onClick={() => setTrailerMovie(null)}>
+              <X size={22} />
+            </button>
+            <div className="player-header">
+              <span>Trailer</span>
+              <h2 id="player-title">{trailerMovie.title}</h2>
+              <p>{trailerMovie.trailer?.language === 'pt-BR' ? 'Português do Brasil' : 'Legendado ou original'}</p>
+            </div>
+            <div className="player-frame">
+              <iframe
+                title={`Trailer de ${trailerMovie.title}`}
+                src={`${trailerMovie.trailer.embedUrl}?autoplay=1&rel=0`}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowFullScreen
+              />
             </div>
           </section>
         </div>

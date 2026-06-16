@@ -11,6 +11,7 @@ Catálogo de filmes desenvolvido com React e Vite, usando dados e imagens da TMD
 - Ordenação por nota, ano ou duração
 - Paginação com 10 filmes por página
 - Modal de detalhes com sinopse, elenco, direção, nota, ano e duração
+- Player de trailer em tela com fechamento por clique fora, botão X ou tecla Esc
 - Ação de favorito em destaque e nos cards
 - Layout responsivo para desktop, tablet e mobile
 
@@ -60,7 +61,7 @@ npm run preview
 
 ## Sincronização com TMDb
 
-O projeto possui um script para buscar dados e imagens reais dos filmes na TMDb API:
+O projeto possui um script para buscar dados, imagens reais e trailers dos filmes na TMDb API:
 
 ```bash
 npm run sync:tmdb
@@ -79,6 +80,8 @@ Os dados sincronizados são gravados em:
 ```text
 src/tmdbMovies.json
 ```
+
+Os trailers são buscados primeiro em `pt-BR`. Quando não há vídeo em português do Brasil, o script usa o primeiro trailer disponível em `en-US`.
 
 ## Deploy
 

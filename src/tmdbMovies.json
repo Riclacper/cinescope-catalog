@@ -7,7 +7,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
     "overview": "A jornada de Paul Atreides continua. Ele está determinado a buscar vingança contra aqueles que destruíram sua família e seu lar. Com a ajuda de Chani e dos Fremen, ele embarca em uma jornada espiritual, mística e marcial. Se torna Muad'Dib, o líder messiânico dos Fremen, enquanto luta para evitar um futuro sombrio que ele testemunhou em visões. No entanto, suas ações inadvertidamente desencadeiam uma Guerra Santa em seu nome, que se espalha pelo universo conhecido. Enquanto enfrenta escolhas difíceis entre o amor por Chani e o destino de seu povo, Paul precisa usar suas habilidades e conhecimentos para evitar o terrível futuro que previu.",
-    "rating": 8.1
+    "rating": 8.1,
+    "trailer": {
+      "key": "4upWeOF30zI",
+      "name": "Duna: Parte 2 l Trailer Oficial 3 Dublado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/4upWeOF30zI",
+      "watchUrl": "https://www.youtube.com/watch?v=4upWeOF30zI"
+    }
   },
   {
     "title": "Oppenheimer",
@@ -17,7 +24,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
     "overview": "A história do físico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial, e o quanto isso mudaria a história do mundo para sempre.",
-    "rating": 8
+    "rating": 8,
+    "trailer": {
+      "key": "F3OxA9Cz17A",
+      "name": "Trailer 2 Oficial Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/F3OxA9Cz17A",
+      "watchUrl": "https://www.youtube.com/watch?v=F3OxA9Cz17A"
+    }
   },
   {
     "title": "Anatomia de uma Queda",
@@ -27,7 +41,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/lDVl2jf6VB8ODl1olZ6FLvOV1gX.jpg",
     "overview": "Uma mulher é suspeita do assassinato de seu marido, e seu filho cego enfrenta um dilema moral como única testemunha.",
-    "rating": 7.5
+    "rating": 7.5,
+    "trailer": {
+      "key": "36nFZ7nNqug",
+      "name": "Trailer Oficial",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/36nFZ7nNqug",
+      "watchUrl": "https://www.youtube.com/watch?v=36nFZ7nNqug"
+    }
   },
   {
     "title": "Pobres Criaturas",
@@ -37,7 +58,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
     "overview": "A jovem Bella Baxter é trazida de volta à vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua época, Bella exige igualdade e libertação.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "9DEOJkmZLd8",
+      "name": "Trailer Oficial [Legendado]",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/9DEOJkmZLd8",
+      "watchUrl": "https://www.youtube.com/watch?v=9DEOJkmZLd8"
+    }
   },
   {
     "title": "Godzilla Minus One",
@@ -45,9 +73,16 @@
     "tmdbTitle": "Godzilla Minus One",
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg",
     "overview": "Em um Japão social e economicamente devastado após o término da Segunda Guerra Mundial, a situação chega a um nível ainda mais crítico quando uma gigantesca e misteriosa criatura surge do mar para assolar o país.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "JNR7KQ69OeA",
+      "name": "Godzilla Minus One / Minus Color | Trailer Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/JNR7KQ69OeA",
+      "watchUrl": "https://www.youtube.com/watch?v=JNR7KQ69OeA"
+    }
   },
   {
     "title": "A Zona de Interesse",
@@ -57,7 +92,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/iQoyDhBjHwo1HTR0DuTzR8o1CqI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
     "overview": "O comandante Rudolf Höss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por trás da fachada de tranquilidade, a família feliz vive, na verdade, ao lado do campo de concentração de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genocídio do qual eles tem as mãos manchadas de sangue.",
-    "rating": 7
+    "rating": 7,
+    "trailer": {
+      "key": "ec4ObSH2EWM",
+      "name": "Zona de Interesse | Trailer Oficial | Prime Video",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/ec4ObSH2EWM",
+      "watchUrl": "https://www.youtube.com/watch?v=ec4ObSH2EWM"
+    }
   },
   {
     "title": "Vidas Passadas",
@@ -67,7 +109,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/toSI71gFF11VnLfz2uiNx6jjNUF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
     "overview": "Nora e Hae Sung são amigos de infância profundamente conectados que se separam quando a família de Nora emigra da Coreia do Sul. Duas décadas depois, se reencontram em Nova York numa semana fatídica enquanto confrontam noções de destino, amor e as escolhas que fazem uma vida, neste romance moderno comovente.",
-    "rating": 7.7
+    "rating": 7.7,
+    "trailer": {
+      "key": "kA244xewjcI",
+      "name": "Official Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/kA244xewjcI",
+      "watchUrl": "https://www.youtube.com/watch?v=kA244xewjcI"
+    }
   },
   {
     "title": "Assassinos da Lua das Flores",
@@ -75,9 +124,16 @@
     "tmdbTitle": "Assassinos da Lua das Flores",
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fnxQUdLAjmSRCdudbYClkSnrxVf.jpg",
     "overview": "Na década de 1920, em Oklahoma, o povo da tribo Osage começa a ser assassinado após petróleo ser descoberto sob suas terras. O mistério começa a ser investigado por uma organização que ficaria conhecida como FBI.",
-    "rating": 7.4
+    "rating": 7.4,
+    "trailer": {
+      "key": "LQ7hKRn6MJo",
+      "name": "Assassinos da Lua das Flores | Trailer Final 2 | Paramount Pictures Brasil",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/LQ7hKRn6MJo",
+      "watchUrl": "https://www.youtube.com/watch?v=LQ7hKRn6MJo"
+    }
   },
   {
     "title": "Parasita",
@@ -85,9 +141,16 @@
     "tmdbTitle": "Parasita",
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8eihUxjQsJ7WvGySkVMC0EwbPAD.jpg",
     "overview": "Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família glamorosa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.",
-    "rating": 8.5
+    "rating": 8.5,
+    "trailer": {
+      "key": "ruaBfQWvHKI",
+      "name": "PARASITA (trailer oficial)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/ruaBfQWvHKI",
+      "watchUrl": "https://www.youtube.com/watch?v=ruaBfQWvHKI"
+    }
   },
   {
     "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
@@ -97,7 +160,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
     "overview": "Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisará salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.",
-    "rating": 7.7
+    "rating": 7.7,
+    "trailer": {
+      "key": "AayeUDsRB_w",
+      "name": "Trailer Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/AayeUDsRB_w",
+      "watchUrl": "https://www.youtube.com/watch?v=AayeUDsRB_w"
+    }
   },
   {
     "title": "O Poderoso Chefao",
@@ -105,9 +175,16 @@
     "tmdbTitle": "O Poderoso Chefão",
     "year": 1972,
     "poster": "https://image.tmdb.org/t/p/w500/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
     "overview": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
-    "rating": 8.7
+    "rating": 8.7,
+    "trailer": {
+      "key": "0v6MO0EB7UY",
+      "name": "O Poderoso Chefão | Aniversário de 50 Anos | Trailer Oficial | Paramount Pictures Brasil",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/0v6MO0EB7UY",
+      "watchUrl": "https://www.youtube.com/watch?v=0v6MO0EB7UY"
+    }
   },
   {
     "title": "O Poderoso Chefao: Parte II",
@@ -117,7 +194,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/3ViYPhSAPwH2avQjdMl49F8PklB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
     "overview": "Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.",
-    "rating": 8.6
+    "rating": 8.6,
+    "trailer": {
+      "key": "FLbWXkka9wU",
+      "name": "Trailer | O Poderoso Chefão 2 (1974) Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/FLbWXkka9wU",
+      "watchUrl": "https://www.youtube.com/watch?v=FLbWXkka9wU"
+    }
   },
   {
     "title": "Um Sonho de Liberdade",
@@ -127,7 +211,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
     "overview": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
-    "rating": 8.7
+    "rating": 8.7,
+    "trailer": {
+      "key": "Y22NgkErOAk",
+      "name": "Trailer Oficial Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/Y22NgkErOAk",
+      "watchUrl": "https://www.youtube.com/watch?v=Y22NgkErOAk"
+    }
   },
   {
     "title": "A Lista de Schindler",
@@ -137,7 +228,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/jbnF7dVi8iu80zTsWAC0Om8ZYOu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
     "overview": "O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio alemão.",
-    "rating": 8.6
+    "rating": 8.6,
+    "trailer": {
+      "key": "RQfPCRUz6lw",
+      "name": "A Lista de Schindler (25º Aniversário) - Trailer Oficial (Universal Pictures) HD",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/RQfPCRUz6lw",
+      "watchUrl": "https://www.youtube.com/watch?v=RQfPCRUz6lw"
+    }
   },
   {
     "title": "12 Homens e uma Sentenca",
@@ -145,9 +243,16 @@
     "tmdbTitle": "12 Homens e uma Sentença",
     "year": 1957,
     "poster": "https://image.tmdb.org/t/p/w500/aiHIhV8c45FzIlbqYlswrrNyQD6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/w4bTBXcqXc2TUyS5Fc4h67uWbPn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
     "overview": "Um jovem porto-riquenho é acusado do brutal crime de ter matado o próprio pai. Quando ele vai a julgamento, doze jurados se reúnem para decidir a sentença, levando em conta que o réu deve ser considerado inocente até que se prove o contrário. Onze dos jurados têm plena certeza de que ele é culpado, e votam pela condenação, mas um jurado acha que é melhor investigar mais para que a sentença seja correta. Para isso ele terá que enfrentar diferentes interpretações dos fatos, e a má vontade dos outros jurados, que só querem ir logo para suas casas.",
-    "rating": 8.6
+    "rating": 8.6,
+    "trailer": {
+      "key": "rTYBu6W-CtY",
+      "name": "Doze Homens E Uma Sentença",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/rTYBu6W-CtY",
+      "watchUrl": "https://www.youtube.com/watch?v=rTYBu6W-CtY"
+    }
   },
   {
     "title": "Batman: O Cavaleiro das Trevas",
@@ -157,7 +262,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
     "overview": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
-    "rating": 8.5
+    "rating": 8.5,
+    "trailer": {
+      "key": "9HPaJQAIx6w",
+      "name": "SBT - Batman - O Cavaleiro das Trevas",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/9HPaJQAIx6w",
+      "watchUrl": "https://www.youtube.com/watch?v=9HPaJQAIx6w"
+    }
   },
   {
     "title": "Pulp Fiction",
@@ -167,7 +279,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
     "overview": "Vincent Vega e Jules Winnfield são dois assassinos profissionais que trabalham fazendo cobranças para Marsellus Wallace, um poderosos gângster. Vega é forçado a sair com a garota do chefe, temendo passar dos limites. Enquanto isso, o pugilista Butch Coolidge se mete em apuros por ganhar uma luta que deveria perder.",
-    "rating": 8.5
+    "rating": 8.5,
+    "trailer": {
+      "key": "VPGagqvdkMw",
+      "name": "Pulp Fiction - Tempo de Violência",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/VPGagqvdkMw",
+      "watchUrl": "https://www.youtube.com/watch?v=VPGagqvdkMw"
+    }
   },
   {
     "title": "Clube da Luta",
@@ -177,7 +296,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/xRyINp9KfMLVjRiO5nCsoRDdvvF.jpg",
     "overview": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden. Eles formam um clube clandestino com regras rígidas onde lutam com outros homens cansados de suas vidas mundanas. Mas sua parceria perfeita é comprometida quando Marla chama a atenção de Tyler.",
-    "rating": 8.4
+    "rating": 8.4,
+    "trailer": {
+      "key": "eBKvlCf0B4g",
+      "name": "Clube da Luta | 1999 | Trailer Legendado | Fight Club",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/eBKvlCf0B4g",
+      "watchUrl": "https://www.youtube.com/watch?v=eBKvlCf0B4g"
+    }
   },
   {
     "title": "Matrix",
@@ -187,7 +313,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
     "overview": "O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade. Thomas conhece os misteriosos Morpheus e Trinity e descobre que é vítima de um sistema inteligente e artificial chamado Matrix, que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.",
-    "rating": 8.2
+    "rating": 8.2,
+    "trailer": {
+      "key": "mPYfd6PCmYY",
+      "name": "Matrix | Trailer dublado | 1999",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/mPYfd6PCmYY",
+      "watchUrl": "https://www.youtube.com/watch?v=mPYfd6PCmYY"
+    }
   },
   {
     "title": "A Origem",
@@ -197,7 +330,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
     "overview": "Cobb é um ladrão habilidoso que comete espionagem corporativa infiltrando-se no subconsciente de seus alvos durante o estado de sono. Impedido de retornar para sua família, ele recebe a oportunidade de se redimir ao realizar uma tarefa aparentemente impossível: plantar uma ideia na mente do herdeiro de um império. Para realizar o crime perfeito, ele conta com a ajuda do parceiro Arthur, o discreto Eames e a arquiteta de sonhos Ariadne. Juntos, eles correm para que o inimigo não antecipe seus passos.",
-    "rating": 8.4
+    "rating": 8.4,
+    "trailer": {
+      "key": "R_VX0e0PX90",
+      "name": "A Origem - Trailer Final (dublado) [HD]",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/R_VX0e0PX90",
+      "watchUrl": "https://www.youtube.com/watch?v=R_VX0e0PX90"
+    }
   },
   {
     "title": "Interestelar",
@@ -207,7 +347,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/6ricSDD83BClJsFdGB6x7cM0MFQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
     "overview": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
-    "rating": 8.5
+    "rating": 8.5,
+    "trailer": {
+      "key": "i6avfCqKcQo",
+      "name": "Trailer Oficial 4 (dub)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/i6avfCqKcQo",
+      "watchUrl": "https://www.youtube.com/watch?v=i6avfCqKcQo"
+    }
   },
   {
     "title": "Os Bons Companheiros",
@@ -217,7 +364,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/sTReXuaND1AjkXUfjl1gqRcuGfI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
     "overview": "A história real de Henry Hill, um garoto meio irlandês e meio siciliano do Brooklyn que é adotado por gangsters do bairro ainda jovem e sobe na hierarquia de uma família da máfia sob a orientação de Jimmy Conway.",
-    "rating": 8.5
+    "rating": 8.5,
+    "trailer": {
+      "key": "PTBRNXGQR9Q",
+      "name": "BFI Re-Release Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/PTBRNXGQR9Q",
+      "watchUrl": "https://www.youtube.com/watch?v=PTBRNXGQR9Q"
+    }
   },
   {
     "title": "Os Sete Samurais",
@@ -227,7 +381,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/2f3Aw6GCzpn1qw56xq78dH0VBgn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
     "overview": "Um bando de bandidos aterroriza os habitantes de uma pequena cidade, saqueando-os periodicamente sem piedade. Para repelir estes ataques, os aldeões decidem contratar mercenários. Por fim, obtêm os serviços de 7 guerreiros, 7 samurais dispostos a defendê-los em troca apenas de abrigo e comida.",
-    "rating": 8.4
+    "rating": 8.4,
+    "trailer": {
+      "key": "RsRN65PlaIM",
+      "name": "BFI 4K Restoration Trailer [Subtitled]",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/RsRN65PlaIM",
+      "watchUrl": "https://www.youtube.com/watch?v=RsRN65PlaIM"
+    }
   },
   {
     "title": "A Viagem de Chihiro",
@@ -237,7 +398,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/ivHwYw3b03dFqRkcqaDSxjj2LQT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
     "overview": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los.",
-    "rating": 8.5
+    "rating": 8.5,
+    "trailer": {
+      "key": "SgZI655GgHk",
+      "name": "Trailer Dublado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/SgZI655GgHk",
+      "watchUrl": "https://www.youtube.com/watch?v=SgZI655GgHk"
+    }
   },
   {
     "title": "Princesa Mononoke",
@@ -247,7 +415,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/7EadOwHmyQgOnlghRiWBygNtnjl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
     "overview": "Um príncipe infectado por uma doença sabe que irá morrer, a menos que encontre a cura. Sendo a sua última esperança, segue para o leste e, durante o caminho, encontra animais da floresta lutando contra a sua exploração, liderados pela princesa Mononoke.",
-    "rating": 8.3
+    "rating": 8.3,
+    "trailer": {
+      "key": "I1dHzoRl0sQ",
+      "name": "4K Restoration Official Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/I1dHzoRl0sQ",
+      "watchUrl": "https://www.youtube.com/watch?v=I1dHzoRl0sQ"
+    }
   },
   {
     "title": "Your Name",
@@ -257,7 +432,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/eIm2nKC0125GyEPSWl6ODCA9J1S.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
     "overview": "Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.",
-    "rating": 8.5
+    "rating": 8.5,
+    "trailer": {
+      "key": "soQXM3XVvIU",
+      "name": "Trailer - Your Name | Cinemark",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/soQXM3XVvIU",
+      "watchUrl": "https://www.youtube.com/watch?v=soQXM3XVvIU"
+    }
   },
   {
     "title": "Cidade de Deus",
@@ -267,7 +449,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/gfnXixcGC060QcG6JPxN6AMdVsq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
     "overview": "Buscapé é um jovem morador da Cidade de Deus que cresce em meio à violência. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna.",
-    "rating": 8.4
+    "rating": 8.4,
+    "trailer": {
+      "key": "iCsPdcO4euE",
+      "name": "Cidade de Deus (Trailer)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/iCsPdcO4euE",
+      "watchUrl": "https://www.youtube.com/watch?v=iCsPdcO4euE"
+    }
   },
   {
     "title": "Central do Brasil",
@@ -277,7 +466,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/qfyWFhUhqeNRU9HmCaBDAxVKRZ9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/lrLIy9OFRQg4VkhrCyolfNXJEUH.jpg",
     "overview": "Dora escreve cartas para analfabetos na estação Central do Brasil. Uma das clientes de Dora é Ana, que vem escrever uma carta com o seu filho, Josué, um garoto de nove anos, que sonha encontrar o pai que nunca conheceu. Na saída da estação, Ana é atropelada e Josué fica abandonado. Mesmo a contragosto, Dora acaba acolhendo o menino e envolvendo-se com ele. Termina por levar Josué para o interior do Nordeste, à procura do pai. À medida em que vão entrando país adentro, esses dois personagens, tão diferentes, vão se aproximando... Começa então uma viagem fascinate ao coração do Brasil, à procura do pai desaparecido, e uma viagem profundamente emotiva ao coração de cada um dos personagens do filme.",
-    "rating": 8.1
+    "rating": 8.1,
+    "trailer": {
+      "key": "JSWgOhRjJmo",
+      "name": "Cinema brasileiro - Central do Brasil (1998) - Trailer",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/JSWgOhRjJmo",
+      "watchUrl": "https://www.youtube.com/watch?v=JSWgOhRjJmo"
+    }
   },
   {
     "title": "Tropa de Elite",
@@ -287,7 +483,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/jpG8AVzRQabzjHeJ7JWbuXe9T1n.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/huUgrGkCetYSkDl5fMvZCXCbFKl.jpg",
     "overview": "Rio de Janeiro, 1997. Nascimento, capitão da Tropa de Elite do Rio de Janeiro, é designado para chefiar uma das equipes que tem como missão \"apaziguar\" o Morro do Turano por um motivo que ele considera insensato. Mas ele tem que cumprir as ordens enquanto procura por um substituto. Sua mulher, Rosane, está no final da gravidez e todos os dias lhe pede para sair da linha de frente do batalhão. Pressionado, o capitão sente os efeitos do estresse.Neste clima, é chamado para mais uma emergência num morro. Em meio a um tiroteio em um baile funk, Nascimento e sua equipe têm que resgatar dois aspirantes a oficiais da PM: Neto e Matias. Ansiosos por entrar em ação e impressionados com a eficiência de seus salvadores, os dois se candidatam ao curso de formação da Tropa de Elite.",
-    "rating": 8.1
+    "rating": 8.1,
+    "trailer": {
+      "key": "uZBiNJQxtGw",
+      "name": "Tropa de Elite - Trailer",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/uZBiNJQxtGw",
+      "watchUrl": "https://www.youtube.com/watch?v=uZBiNJQxtGw"
+    }
   },
   {
     "title": "Bacurau",
@@ -297,7 +500,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/qvmLAVqNB5TbGUa9QqQvXiFC4UR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/nhsC7Q1Zb5n2p4H3UKy422zP5XC.jpg",
     "overview": "Num futuro recente, Bacurau, um povoado do sertão de Pernambuco, some misteriosamente do mapa. Quando uma série de assassinatos inexplicáveis começam a acontecer, os moradores da cidade tentam reagir. Mas como se defender de um inimigo desconhecido e implacável?",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "1DPdE1MBcQc",
+      "name": "BACURAU | Trailer Oficial",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/1DPdE1MBcQc",
+      "watchUrl": "https://www.youtube.com/watch?v=1DPdE1MBcQc"
+    }
   },
   {
     "title": "Aquarius",
@@ -307,7 +517,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/tEHOKQVW7Hw7T68uvJEUiJy13CR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/veZzmysk4x3clDOsXiAADWVjL40.jpg",
     "overview": "Clara mora de frente para o mar no Aquarius, último prédio de estilo antigo da Av. Boa Viagem, no Recife. Jornalista aposentada e escritora, viúva com três filhos adultos e dona de um aconchegante apartamento repleto de discos e livros, ela irá enfrentar as investidas de uma construtora que tem outros planos para aquele terreno: demolir o Aquarius e dar lugar a um novo empreendimento.",
-    "rating": 7.4
+    "rating": 7.4,
+    "trailer": {
+      "key": "VB-5rodvHUc",
+      "name": "AQUARIUS - Trailer legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/VB-5rodvHUc",
+      "watchUrl": "https://www.youtube.com/watch?v=VB-5rodvHUc"
+    }
   },
   {
     "title": "Retratos Fantasmas",
@@ -317,7 +534,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/bmscUBnrI9KrwdxdmvpOYAo8dBp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/fz4wnEWbY3V137tlk9T1NbX1xkD.jpg",
     "overview": "Como em tantas cidades do mundo ao longo do século XX, milhões de pessoas foram ao cinema no centro do Recife. Com a passagem do tempo, as ruínas dos grandes cinemas revelam algumas verdades sobre a vida em sociedade.",
-    "rating": 8
+    "rating": 8.1,
+    "trailer": {
+      "key": "mWIV07cPx-c",
+      "name": "RETRATOS FANTASMAS | SOMENTE NOS CINEMAS",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/mWIV07cPx-c",
+      "watchUrl": "https://www.youtube.com/watch?v=mWIV07cPx-c"
+    }
   },
   {
     "title": "Nomadland",
@@ -327,7 +551,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/pLwarSuyUjw6vF0U6JhlHzAa1Gp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
     "overview": "Após o colapso econômico de uma cidade na zona rural de Nevada, nos Estados Unidos, Fern, uma mulher de 60 anos, entra em sua van e parte para a estrada, vivendo uma vida fora da sociedade convencional como uma nômade moderna.",
-    "rating": 7.2
+    "rating": 7.2,
+    "trailer": {
+      "key": "ZV6sRMxt2JU",
+      "name": "Nomadland | Trailer 2 legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/ZV6sRMxt2JU",
+      "watchUrl": "https://www.youtube.com/watch?v=ZV6sRMxt2JU"
+    }
   },
   {
     "title": "Moonlight",
@@ -337,7 +568,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/AekOkoT88EhDHikUQXQcKri2q4B.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
     "overview": "Moonlight narra a vida de um jovem gay afro-americano, desde a infância até a vida adulta e sua luta para encontrar seu lugar no mundo enquanto cresce num bairro violento de Miami. Ao mesmo tempo um retrato essencial da vida contemporânea do afro-americano e uma reflexão intensa, pessoal e poética sobre identidade, família e amizade. A direção de Barry Jenkins traz sua visão única e profundamente comovente sobre o caleidoscópio de momentos, pessoas e forças desconhecidas que determinam nossas vidas e nos fazem ser quem somos.",
-    "rating": 7.4
+    "rating": 7.4,
+    "trailer": {
+      "key": "cYFIBxizOW0",
+      "name": "Trailer (legendado)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/cYFIBxizOW0",
+      "watchUrl": "https://www.youtube.com/watch?v=cYFIBxizOW0"
+    }
   },
   {
     "title": "La La Land",
@@ -347,7 +585,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/AvMietG6xuobpSSdmVnKuTjv4bL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
     "overview": "O pianista Sebastian conhece a atriz Mia, e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva Los Angeles, os jovens tentam fazer o relacionamento amoroso dar certo, enquanto perseguem fama e sucesso.",
-    "rating": 7.9
+    "rating": 7.9,
+    "trailer": {
+      "key": "UD-Cb2yeAPA",
+      "name": "La La Land - Cantando Estações | Trailer Dublado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/UD-Cb2yeAPA",
+      "watchUrl": "https://www.youtube.com/watch?v=UD-Cb2yeAPA"
+    }
   },
   {
     "title": "Whiplash",
@@ -357,7 +602,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/z693uKD7j3zcdX0zVMQPIA3cSZf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/wbQa0EnWUyRzQ5d1pHLNRlmsCUP.jpg",
     "overview": "Andrew sonha em ser o melhor baterista de sua geração. Ele chama a atenção do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsessão, colocando em risco a saúde física e mental do jovem músico.",
-    "rating": 8.4
+    "rating": 8.4,
+    "trailer": {
+      "key": "iTgk3WbTErk",
+      "name": "Whiplash – Em Busca da Perfeição | trailer legendado | 8 de janeiro nos cinemas",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/iTgk3WbTErk",
+      "watchUrl": "https://www.youtube.com/watch?v=iTgk3WbTErk"
+    }
   },
   {
     "title": "Mad Max: Estrada da Furia",
@@ -367,7 +619,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
     "overview": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "CYiq9yfFGBg",
+      "name": "Mad Max: Estrada da Fúria - Trailer Oficial 2 (dub)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/CYiq9yfFGBg",
+      "watchUrl": "https://www.youtube.com/watch?v=CYiq9yfFGBg"
+    }
   },
   {
     "title": "Blade Runner 2049",
@@ -377,7 +636,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
     "overview": "Trinta anos após os acontecimentos do primeiro filme, um novo blade runner, o oficial K da polícia de Los Angeles, desenterra um segredo há muito enterrado que tem o potencial de mergulhar o que resta da sociedade no caos. A descoberta de K o leva a uma busca para encontrar Rick Deckard, um ex-blade runner do LAPD que está desaparecido há 30 anos.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "xGwe7D0RKWc",
+      "name": "Blade Runner 2049 | Trailer Dublado | 5 de outubro nos cinemas",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/xGwe7D0RKWc",
+      "watchUrl": "https://www.youtube.com/watch?v=xGwe7D0RKWc"
+    }
   },
   {
     "title": "Blade Runner",
@@ -387,7 +653,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/y5ibL0vFnzsRiIHosw0WOfHtIj1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
     "overview": "No início do século 21, uma grande corporação desenvolve um robô que é mais forte e ágil que o ser humano e se equiparando em inteligência. São conhecidos como \"replicantes\" e utilizados como escravos na colonização e exploração de outros planetas. Mas, quando um grupo dos robôs mais evoluídos provoca um motim em uma colônia fora da Terra, este incidente faz os replicantes serem considerados ilegais na Terra, sob pena de morte. A partir de então, policiais de um esquadrão de elite conhecidos como \"Blade Runner\", têm ordem de atirar para matar em replicantes encontrados na Terra. Mas tal ato não é chamado de \"execução\" e sim de \"remoção\". Até que, em novembro de 2019, em Los Angeles, quando cinco replicantes chegam à Terra, o ex-Blade Runner, Deckard, é encarregado de caçá-los.",
-    "rating": 7.9
+    "rating": 7.9,
+    "trailer": {
+      "key": "qoEyZoOTtss",
+      "name": "The Final Cut Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/qoEyZoOTtss",
+      "watchUrl": "https://www.youtube.com/watch?v=qoEyZoOTtss"
+    }
   },
   {
     "title": "Alien, o Oitavo Passageiro",
@@ -395,9 +668,16 @@
     "tmdbTitle": "Alien: O Oitavo Passageiro",
     "year": 1979,
     "poster": "https://image.tmdb.org/t/p/w500/rFHzJrkO1kNIezb6rFog5oCJUEn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cEobq5QrnOJjO6giDs8q4RxmMKh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
     "overview": "Quando a tripulação da sonda espacial Nostromo responde a um pedido de socorro vindo de um planeta inóspito, eles descobrem uma forma de vida mortal que se reproduz dentro de humanos. Agora, a tripulação deve lutar para permanecer viva e impedir que a criatura chegue até a Terra.",
-    "rating": 8.2
+    "rating": 8.2,
+    "trailer": {
+      "key": "sVwH0hIvV5k",
+      "name": "Modern Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/sVwH0hIvV5k",
+      "watchUrl": "https://www.youtube.com/watch?v=sVwH0hIvV5k"
+    }
   },
   {
     "title": "Aliens, o Resgate",
@@ -407,7 +687,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/dopA5H3VYKcTE1lDXkTwRx7uy2G.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
     "overview": "Cinquenta e quatro anos após escapar da \"Nostromo\", a tenente Ripley é encontrada a flutuar, perdida no espaço, ainda adormecida. De volta ao nosso planeta, ela conta tudo o que lhe aconteceu, mas ninguém acredita realmente nela, ou lhe parece dar crédito, até que uma colônia de humanos, criada no planeta onde ela encontrou o primeiro Alienígena, deixa de emitir comunicações subitamente. Ela então é convocada para auxiliar uma expedição militar ao local, sendo a única aparentemente consciente de que o pesadelo está longe do fim.",
-    "rating": 8
+    "rating": 8,
+    "trailer": {
+      "key": "8OxirbuHsBA",
+      "name": "Modern Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/8OxirbuHsBA",
+      "watchUrl": "https://www.youtube.com/watch?v=8OxirbuHsBA"
+    }
   },
   {
     "title": "Terminator 2: O Julgamento Final",
@@ -417,7 +704,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/eTIY2LO5cDclxgKtCHuvIKdF3c3.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
     "overview": "O jovem John Connor é a chave para a vitória da civilização sobre uma rebelião de robôs do futuro. No entanto, ele torna-se alvo de T-1000, um exterminador que pode assumir a forma que desejar e que foi enviado do futuro para matá-lo. Outro exterminador, o renovado T-800, também é enviado de volta ao passado para proteger o garoto. Quando John e sua mãe embarcam na fuga com T-800, o menino cria um vínculo forte e inesperado com o robô.",
-    "rating": 8.2
+    "rating": 8.2,
+    "trailer": {
+      "key": "0yfpLhW-Xyg",
+      "name": "O Exterminador do Futuro 2 - O Julgamento Final | Trailer Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/0yfpLhW-Xyg",
+      "watchUrl": "https://www.youtube.com/watch?v=0yfpLhW-Xyg"
+    }
   },
   {
     "title": "Titanic",
@@ -427,7 +721,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/As0zX43h3w6kD2NS4uVHu9HKdEh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
     "overview": "Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.",
-    "rating": 7.9
+    "rating": 7.9,
+    "trailer": {
+      "key": "IH6_CA_ocqY",
+      "name": "Trailer Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/IH6_CA_ocqY",
+      "watchUrl": "https://www.youtube.com/watch?v=IH6_CA_ocqY"
+    }
   },
   {
     "title": "Avatar",
@@ -437,7 +738,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/jKKHa8MvDpYh4bf4rAmgC5uNKvR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
     "overview": "Apesar de não ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intuição começa a se tornar realidade quando ele viaja anos-luz até a estação espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na´vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biológico, híbrido de humano e Na´vi, pode ser comandado a distância.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "G1fymUSI4cc",
+      "name": "Trailer Oficial Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/G1fymUSI4cc",
+      "watchUrl": "https://www.youtube.com/watch?v=G1fymUSI4cc"
+    }
   },
   {
     "title": "Gladiador",
@@ -447,7 +755,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
     "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar pública sua predileção em deixar o trono para Maximus, o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.",
-    "rating": 8.2
+    "rating": 8.2,
+    "trailer": {
+      "key": "AVPCzVHLAYY",
+      "name": "Gladiador [Legendado/Trailer] HD",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/AVPCzVHLAYY",
+      "watchUrl": "https://www.youtube.com/watch?v=AVPCzVHLAYY"
+    }
   },
   {
     "title": "Coringa",
@@ -455,9 +770,16 @@
     "tmdbTitle": "Coringa",
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
     "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
-    "rating": 8.1
+    "rating": 8.1,
+    "trailer": {
+      "key": "jfVTJm9NilA",
+      "name": "CORINGA - Trailer Final",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/jfVTJm9NilA",
+      "watchUrl": "https://www.youtube.com/watch?v=jfVTJm9NilA"
+    }
   },
   {
     "title": "Taxi Driver",
@@ -467,7 +789,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/hvJvOYRrF9xxvNzg2Jd9PYWu7c3.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
     "overview": "Veterano de guerra mentalmente instável trabalha como taxista em Nova York. Decadência e desprezo alimentam seu desejo de ação violenta.",
-    "rating": 8.1
+    "rating": 8.1,
+    "trailer": {
+      "key": "zdqCqDSTVNI",
+      "name": "Modern Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/zdqCqDSTVNI",
+      "watchUrl": "https://www.youtube.com/watch?v=zdqCqDSTVNI"
+    }
   },
   {
     "title": "O Silencio dos Inocentes",
@@ -477,7 +806,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/9IflTrxN8yw44ZxhfvJPziGzGHM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
     "overview": "Clarice Starling é uma das melhores estudantes da academia de treinamento do FBI. Jack Crawford quer que Clarice entreviste o Dr. Hannibal Lecter, um psiquiatra brilhante e também um psicopata violento, que cumpre prisão perpétua por vários atos de assassinato e canibalismo. Crawford acredita que Lecter pode ter uma visão em um caso e que Starling, como uma mulher jovem e atraente, pode ser a isca para atraí-lo.",
-    "rating": 8.3
+    "rating": 8.3,
+    "trailer": {
+      "key": "8Qsq6DrYDxE",
+      "name": "O Silêncio dos Inocentes | Trailer Oficial",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/8Qsq6DrYDxE",
+      "watchUrl": "https://www.youtube.com/watch?v=8Qsq6DrYDxE"
+    }
   },
   {
     "title": "Seven: Os Sete Crimes Capitais",
@@ -487,7 +823,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
     "overview": "Quando, a ponto de se aposentar, o detetive William Somerset aborda o último caso com a ajuda do recém-transferido David Mills, eles descobrem uma série de assassinatos. Logo percebem que estão lidando com um assassino que tem como alvo pessoas que ele acredita representar os sete pecados capitais.",
-    "rating": 8.4
+    "rating": 8.4,
+    "trailer": {
+      "key": "KPOuJGkpblk",
+      "name": "Official 4K Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/KPOuJGkpblk",
+      "watchUrl": "https://www.youtube.com/watch?v=KPOuJGkpblk"
+    }
   },
   {
     "title": "Garota Exemplar",
@@ -497,7 +840,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
     "overview": "Amy Dunne desaparece no dia do seu aniversário de casamento, deixando o marido Nick em apuros. Ele começa a agir descontroladamente, abusando das mentiras, e se torna o suspeito número um da polícia. Com o apoio da sua irmã gêmea, Margo, Nick tenta provar a sua inocência e, ao mesmo tempo, procura descobrir o que aconteceu com Amy.",
-    "rating": 7.9
+    "rating": 7.9,
+    "trailer": {
+      "key": "8qrbA8WjJJo",
+      "name": "Segundo Trailer [Legendado]",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/8qrbA8WjJJo",
+      "watchUrl": "https://www.youtube.com/watch?v=8qrbA8WjJJo"
+    }
   },
   {
     "title": "A Rede Social",
@@ -506,8 +856,15 @@
     "year": 2010,
     "poster": "https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/1GlZNA9L5trst3ItgRiyQTUH1uf.jpg",
-    "overview": "Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.",
-    "rating": 7.4
+    "overview": "Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.",
+    "rating": 7.4,
+    "trailer": {
+      "key": "EO5AkM-6SLY",
+      "name": "Trailer - A Rede Social",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/EO5AkM-6SLY",
+      "watchUrl": "https://www.youtube.com/watch?v=EO5AkM-6SLY"
+    }
   },
   {
     "title": "Her",
@@ -517,7 +874,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/yyDGhBY8RYXyXYADeFq1BDxpLkl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/nG5zmbVeYlcDhckrPAe06fArywn.jpg",
     "overview": "Em um futuro próximo, um escritor solitário desenvolve um relacionamento improvável com um sistema operacional projetado para atender todas as suas necessidades.",
-    "rating": 7.8
+    "rating": 7.8,
+    "trailer": {
+      "key": "ne6p6MfLBxc",
+      "name": "Official Trailer 2",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/ne6p6MfLBxc",
+      "watchUrl": "https://www.youtube.com/watch?v=ne6p6MfLBxc"
+    }
   },
   {
     "title": "Ela Quer Tudo",
@@ -527,7 +891,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/ru4InHb3udvszuA5FiJczFIZGVl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/aqUYYwKMNRzmqvkBvNM1gqRerb1.jpg",
     "overview": "Uma artista independente do Brooklyn tenta manter sua identidade enquanto se divide entre três homens totalmente diferentes. De Spike Lee.",
-    "rating": 6.6
+    "rating": 6.6,
+    "trailer": {
+      "key": "Pd9oTGr_1DA",
+      "name": "She'S Gotta Have It - Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/Pd9oTGr_1DA",
+      "watchUrl": "https://www.youtube.com/watch?v=Pd9oTGr_1DA"
+    }
   },
   {
     "title": "Faca a Coisa Certa",
@@ -537,7 +908,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/qMg44JbDQPHVUAsXH2gG56mAQwN.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/oYOZay9hyW3uI5paKWLIYkWZlzv.jpg",
     "overview": "Em um bairro onde a maioria da população é predominantemente negra, Buggin' Out, um ativista, exige que Sal, um dono de uma pizzaria, troque as fotos de seus ídolos brancos do local por fotos de ídolos negros. Quando tem seu pedido negado, o ativista passa a organizar um boicote contra a pizzaria de Sal.",
-    "rating": 7.8
+    "rating": 7.8,
+    "trailer": {
+      "key": "yVAD4fYRcvA",
+      "name": "Restored Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/yVAD4fYRcvA",
+      "watchUrl": "https://www.youtube.com/watch?v=yVAD4fYRcvA"
+    }
   },
   {
     "title": "Corra!",
@@ -547,7 +925,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
     "overview": "Agora que Chris e sua namorada, Rose, chegaram à fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princípio, Chris acha que o comportamento excessivamente agradável dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avança, uma série de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "mDGV5UucTu8",
+      "name": "Trailer (legendado)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/mDGV5UucTu8",
+      "watchUrl": "https://www.youtube.com/watch?v=mDGV5UucTu8"
+    }
   },
   {
     "title": "Nos",
@@ -557,7 +942,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/5ncjQfUDr0oRKnfpdAXobJFbnao.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
     "overview": "Adelaide e Gabe levam a família para passar um fim de semana na praia e descansar. Eles começam a aproveitar o ensolarado local, mas a chegada de um grupo misterioso muda tudo e a família se torna refém de seres com aparências iguais às suas.",
-    "rating": 6.9
+    "rating": 6.9,
+    "trailer": {
+      "key": "fQ19DupGfzk",
+      "name": "Nós - Trailer Oficial (Universal Pictures) HD",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/fQ19DupGfzk",
+      "watchUrl": "https://www.youtube.com/watch?v=fQ19DupGfzk"
+    }
   },
   {
     "title": "Nao! Nao Olhe!",
@@ -567,7 +959,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/eyOw2kAOad2MNVsjMFmfzavB51h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg",
     "overview": "Depois da trágica morte de seu pai, o treinador de animais para produções de Hollywood, OJ, e sua irmã, Emerald, começam a ver fenômenos inexplicáveis em seu vasto rancho no sul da Califórnia, que leva eles por um caminho obsessivo enquanto tentam captar o mistério em filme.",
-    "rating": 6.8
+    "rating": 6.8,
+    "trailer": {
+      "key": "AGdbfPDpv7Y",
+      "name": "Não! Não Olhe! | Trailer Dublado Oficial (Universal Pictures) HD",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/AGdbfPDpv7Y",
+      "watchUrl": "https://www.youtube.com/watch?v=AGdbfPDpv7Y"
+    }
   },
   {
     "title": "O Labirinto do Fauno",
@@ -577,7 +976,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/5hMcZCR8qpJzeebm38Zi68XwcoA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
     "overview": "Espanha, 1944. Ofelia se muda com sua mãe para uma guarnição dirigida por seu padrasto, Vidal, um capitão autoritário do exército de Franco. Perto da casa da família, a jovem descobre um estranho labirinto guardado por uma criatura, um fauno chamado Pan. O monstro revela que ela é nada menos que a princesa de um reino encantado. Para descobrir a verdade, Ofelia precisa enfrentar três provas para as quais não está preparada.",
-    "rating": 7.8
+    "rating": 7.8,
+    "trailer": {
+      "key": "M09mCcVgrsA",
+      "name": "Labirinto do Fauno - Trailer legendado em português",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/M09mCcVgrsA",
+      "watchUrl": "https://www.youtube.com/watch?v=M09mCcVgrsA"
+    }
   },
   {
     "title": "A Forma da Agua",
@@ -587,7 +993,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/abirSHwWgKajV3hXhaIR5lcCIXe.jpg",
     "overview": "Década de 60. Em meio aos grandes conflitos políticos e transformações sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laboratório experimental secreto do governo, se encanta com uma criatura fantástica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e à colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
-    "rating": 7.2
+    "rating": 7.2,
+    "trailer": {
+      "key": "-DTVuQTZr3E",
+      "name": "A Forma da Água | Trailer Oficial | Legendado HD",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/-DTVuQTZr3E",
+      "watchUrl": "https://www.youtube.com/watch?v=-DTVuQTZr3E"
+    }
   },
   {
     "title": "Roma",
@@ -597,7 +1010,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/veWGVw33lnifG10fpkz3QmimVaI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
     "overview": "Na década de 1970, uma jovem trabalhadora doméstica indígena Cleodegaria \"Cleo\" Gutiérrez trabalha para uma família abastada de classe média do bairro de Roma, Cidade do México. À medida que as lutas domésticas e as restrições da hierarquia social se desdobram em meio a um pano de fundo de poderosos terremotos, revoltas estudantis e agitação política, a família luta para permanecer unida enquanto essas forças ameaçam separá-los.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "6BS27ngZtxg",
+      "name": "Official Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/6BS27ngZtxg",
+      "watchUrl": "https://www.youtube.com/watch?v=6BS27ngZtxg"
+    }
   },
   {
     "title": "Gravidade",
@@ -607,7 +1027,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg",
     "overview": "Matt Kowalski é um astronauta experiente que está em missão de conserto ao telescópio Hubble juntamente com a doutora Ryan Stone. Ambos são surpreendidos por uma chuva de destroços decorrente da destruição de um satélite por um míssil russo, que faz com que sejam jogados no espaço sideral. Sem qualquer apoio da base terrestre da NASA, eles precisam encontrar um meio de sobreviver em meio a um ambiente completamente inóspito para a vida humana.",
-    "rating": 7.2
+    "rating": 7.2,
+    "trailer": {
+      "key": "OiTiKOy59o4",
+      "name": "Official Main Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/OiTiKOy59o4",
+      "watchUrl": "https://www.youtube.com/watch?v=OiTiKOy59o4"
+    }
   },
   {
     "title": "Filhos da Esperanca",
@@ -617,7 +1044,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/BHTzFqP7hrjicDiSYf6wtS8Xb7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/gFGLwUBhVrq0bq4j9DU08xQDRU2.jpg",
     "overview": "No ano de 2027, a infertilidade é uma ameaça real para a civilização, e o último humano a nascer em anos acaba de morrer. Frente a um cenário pessimista sobre o futuro, um burocrata desiludido se torna o herói improvável que pode salvar a humanidade. Para isso, ele enfrenta seus próprios demônios e tenta proteger a última esperança do planeta: uma jovem mulher milagrosamente grávida, descoberta pela ativista inteligente com quem fora casado.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "nz57XKJUb88",
+      "name": "Trailer (legendado)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/nz57XKJUb88",
+      "watchUrl": "https://www.youtube.com/watch?v=nz57XKJUb88"
+    }
   },
   {
     "title": "Birdman",
@@ -627,7 +1061,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
     "overview": "Esperando ser levado a sério, Riggan Thomson, uma estrela envelhecida conhecida por interpretar um super-herói, tenta organizar uma peça da Broadway. Mas com as dificuldades da produção e a aproximação da noite de abertura, ele deve confrontar sua família, sua carreira e seu ego.",
-    "rating": 7.4
+    "rating": 7.4,
+    "trailer": {
+      "key": "n7kPKVxuz6k",
+      "name": "Trailer Oficial [Legendado]",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/n7kPKVxuz6k",
+      "watchUrl": "https://www.youtube.com/watch?v=n7kPKVxuz6k"
+    }
   },
   {
     "title": "O Regresso",
@@ -637,7 +1078,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/x1jViuXsm5ZmrR6uFmxU6AVdXzs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/mNQtUJv1F3u0uSKILFrGjIHqkxx.jpg",
     "overview": "Durante uma expedição em uma selvagem região americana, o lendário explorador Hugh Glass é brutalmente atacado por um urso e deixado para morrer por membros de seu próprio grupo de caça. Em sua cruzada pela sobrevivência, Glass supera tribulações inimagináveis, bem como a traição de seu confidente John Fitzgerald. Guiado por pura determinação e pelo amor de sua família, Glass precisa superar um inverno rigoroso enquanto busca incansavelmente um motivo para seguir em frente e encontrar a redenção.",
-    "rating": 7.5
+    "rating": 7.5,
+    "trailer": {
+      "key": "S4PpYv9n0ko",
+      "name": "O Regresso | Trailer Oficial | Legendado HD",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/S4PpYv9n0ko",
+      "watchUrl": "https://www.youtube.com/watch?v=S4PpYv9n0ko"
+    }
   },
   {
     "title": "Amores Brutos",
@@ -647,7 +1095,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/tw6q0EFcpr2SbPJAbfQK69ZUk0O.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/tJTRLtdKPeVT8HORSbeHpdb8BKg.jpg",
     "overview": "Em plena Cidade do México, um terrível acidente automobilístico ocorre. A partir deste momento, três pessoas envolvidas no acidente se encontram e têm suas vidas mudadas para sempre. Um deles é o adolescente Octavio, que decidiu fugir com a mulher de seu irmão, Susana, usando seu cachorro Cofi como veículo para conseguir o dinheiro para a fuga. Ao mesmo tempo, Daniel resolve abandonar sua esposa e filhas para ir viver com Valeria, uma bela modelo por quem está apaixonado. Também se envolve no acidente Chivo, um ex-guerrilheiro comunista que agora atua como matador de aluguel, após passar vários anos preso. Ali, em meio ao caos, ele encontra Cofi e vê a possibilidade de sua redenção.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "sJ4PQC1DASA",
+      "name": "TRAILER",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/sJ4PQC1DASA",
+      "watchUrl": "https://www.youtube.com/watch?v=sJ4PQC1DASA"
+    }
   },
   {
     "title": "Os Infiltrados",
@@ -657,7 +1112,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/6WRrGYalXXveItfpnipYdayFkQB.jpg",
     "overview": "Billy Costigan, um jovem policial, recebe a missão de se infiltrar na máfia, mais especificamente no grupo comandado por Frank Costello. Billy conquista sua confiança ao mesmo tempo em que Colin Sullivan, um criminoso que atuou na polícia como informante de Costello, também ascende dentro da corporação. Tanto Billy quanto Colin se sentem aflitos devido à vida dupla que levam. Mas quando a máfia e a polícia descobrem que há um espião entre eles, a vida de ambos passa a correr perigo.",
-    "rating": 8.2
+    "rating": 8.2,
+    "trailer": {
+      "key": "r-MiSNsCdQ4",
+      "name": "4K Ultra HD Official Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/r-MiSNsCdQ4",
+      "watchUrl": "https://www.youtube.com/watch?v=r-MiSNsCdQ4"
+    }
   },
   {
     "title": "O Lobo de Wall Street",
@@ -667,7 +1129,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/sIy0jXDkaMf3SDZGaWcmkC2IOl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
     "overview": "Durante seis meses, Jordan Belfort trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna. Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a idéia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer.",
-    "rating": 8
+    "rating": 8,
+    "trailer": {
+      "key": "PoSCUsNQVtw",
+      "name": "Trailer (legendado)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/PoSCUsNQVtw",
+      "watchUrl": "https://www.youtube.com/watch?v=PoSCUsNQVtw"
+    }
   },
   {
     "title": "Cassino",
@@ -677,7 +1146,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/5tch5Gllpawf5triVw4cSsIQHTV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
     "overview": "No início dos anos 70, em Las Vegas, Sam \"Ace\" Rothstein é escolhido pelos seus chefes para dirigir o Cassino Tangiers. No início, ele é um grande sucesso no cargo, mas com o passar dos anos, problemas com o seu executor Nicky Santoro, a sua ex-mulher Ginger, o seu ex-vigarista Lester Diamond e um punhado de políticos corruptos colocam Sam em perigo cada vez maior.",
-    "rating": 8
+    "rating": 8,
+    "trailer": {
+      "key": "zFUKn_75m1o",
+      "name": "Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/zFUKn_75m1o",
+      "watchUrl": "https://www.youtube.com/watch?v=zFUKn_75m1o"
+    }
   },
   {
     "title": "Era Uma Vez em Hollywood",
@@ -685,9 +1161,16 @@
     "tmdbTitle": "Era Uma Vez em… Hollywood",
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/zgr02U2Fh0sR5JtaAXY5yBU1wka.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
     "overview": "Los Angeles, 1969. O astro de TV Rick Dalton, um ator em dificuldades especializado em faroestes, e o dublê Cliff Booth, seu melhor amigo, tentam sobreviver em uma indústria cinematográfica em constante mudança. Dalton é vizinho da jovem e promissora atriz e modelo Sharon Tate, que acaba de se casar com o prestigiado diretor polonês Roman Polanski.",
-    "rating": 7.4
+    "rating": 7.4,
+    "trailer": {
+      "key": "Bbk_ZSh5BWQ",
+      "name": "Era Uma Vez Em Hollywood | Trailer Final Dublado | 15 de agosto nos cinemas",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/Bbk_ZSh5BWQ",
+      "watchUrl": "https://www.youtube.com/watch?v=Bbk_ZSh5BWQ"
+    }
   },
   {
     "title": "Bastardos Inglorios",
@@ -697,7 +1180,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/fM7cHZc9WK9yU47kiiyMS4tW0uw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
     "overview": "Durante a Segunda Guerra Mundial, na França, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido.",
-    "rating": 8.2
+    "rating": 8.2,
+    "trailer": {
+      "key": "3mYh13__ApE",
+      "name": "Sessão Megapix - Bastardos Inglórios",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/3mYh13__ApE",
+      "watchUrl": "https://www.youtube.com/watch?v=3mYh13__ApE"
+    }
   },
   {
     "title": "Django Livre",
@@ -707,7 +1197,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/ar63Sx8jeqk0OOu2uchS477S2zE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
     "overview": "Django é um escravo, comprado pelo caçador de recompensas alemão Dr. King Schultz para auxiliá-lo em uma missão. A dupla acaba fazendo amizade e, após resolver os problemas do caçador, parte em busca por Broomhilda, esposa de Django. Para isso, eles devem enfrentar o vilão Calvin Candie, proprietário da escrava.",
-    "rating": 8.2
+    "rating": 8.2,
+    "trailer": {
+      "key": "9vO2pd_y6s8",
+      "name": "Django Livre | Trailer 2 Legendado | 18 de janeiro nos cinemas",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/9vO2pd_y6s8",
+      "watchUrl": "https://www.youtube.com/watch?v=9vO2pd_y6s8"
+    }
   },
   {
     "title": "Kill Bill: Volume 1",
@@ -717,7 +1214,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/6VDrtm6rLEW4hByVA45V0Gpime0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
     "overview": "A ex-assassina conhecida apenas como \"A Noiva\" acorda de um coma de quatro anos decidida a se vingar de Bill, seu ex-amante e chefe, que tentou matá-la no dia do casamento. Ela está motivada a acertar as contas com cada uma das pessoas envolvidas com a perda da filha, da festa de casamento e dos quatro anos da sua vida. Na jornada, \"A Noiva\" é submetida a dores físicas agoniantes ao enfrentar a inescrupulosa gangue de Bill, o Esquadrão Assassino de Víboras Mortais.",
-    "rating": 8
+    "rating": 8,
+    "trailer": {
+      "key": "sXwXk3jcrfU",
+      "name": "Theatrical Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/sXwXk3jcrfU",
+      "watchUrl": "https://www.youtube.com/watch?v=sXwXk3jcrfU"
+    }
   },
   {
     "title": "O Grande Hotel Budapeste",
@@ -727,7 +1231,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/yabOguSrb8ffUXCkI6t8Rw7xtSh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
     "overview": "No período entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma família e as transformações históricas durante a primeira metade do século XX.",
-    "rating": 8
+    "rating": 8,
+    "trailer": {
+      "key": "sF7hAbQR7kk",
+      "name": "O Grande Hotel Budapeste | Trailer Legendado HD | 2014",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/sF7hAbQR7kk",
+      "watchUrl": "https://www.youtube.com/watch?v=sF7hAbQR7kk"
+    }
   },
   {
     "title": "Moonrise Kingdom",
@@ -737,7 +1248,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/3Vo4SrfuYYRcvQX02PqZJAaOZJt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/bsYv9IFIGfpAV0oUbe7YTiyxhox.jpg",
     "overview": "Em 1965, residentes de uma ilha formam uma comunidade aparentemente imune aos males do resto do mundo. Os adolescentes Sam e Suzy se apaixonam e decidem fugir antes da chegada de uma violenta tempestade que ameaça a região.",
-    "rating": 7.7
+    "rating": 7.7,
+    "trailer": {
+      "key": "RBCRe73dZb0",
+      "name": "Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/RBCRe73dZb0",
+      "watchUrl": "https://www.youtube.com/watch?v=RBCRe73dZb0"
+    }
   },
   {
     "title": "Ilha dos Cachorros",
@@ -747,7 +1265,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/4k4sjRXGMTfIDkfVi7lHccatnWk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/goMGTcitprGu7YD6VZS4lUUwzRA.jpg",
     "overview": "Atari Kobayashi é um garoto japonês de 12 anos de idade. Ele mora na cidade de Megasaki, sob tutela do corrupto prefeito Kobayashi. O político aprova uma nova lei que proíbe os cachorros de morarem no local, fazendo com que todos os animais sejam enviados a uma ilha vizinha repleta de lixo. Como não aceita se separar do cachorro Spots, Atari convoca os amigos, rouba um jato em miniatura e parte em busca de seu fiel amigo, aventura que transforma completamente a vida da cidade.",
-    "rating": 7.8
+    "rating": 7.8,
+    "trailer": {
+      "key": "WbZUIusb_6E",
+      "name": "Ilha dos Cachorros | Trailer Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/WbZUIusb_6E",
+      "watchUrl": "https://www.youtube.com/watch?v=WbZUIusb_6E"
+    }
   },
   {
     "title": "O Fabuloso Destino de Amelie Poulain",
@@ -757,7 +1282,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/oAYKYALxamhAB1wKUGmOo05Vf92.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
     "overview": "Após deixar a vida de subúrbio que levava com a família, a inocente Amélie muda-se para o bairro parisiense de Montmartre, onde começa a trabalhar como garçonete. Certo dia encontra uma caixa escondida no banheiro de sua casa e, pensando que pertencesse ao antigo morador, decide procurá-lo ­e é assim que encontra Dominique. Ao ver que ele chora de alegria ao reaver o seu objeto, a moça fica impressionada e adquire uma nova visão do mundo. Então, a partir de pequenos gestos, ela passa a ajudar as pessoas que a rodeiam, vendo nisto um novo sentido para sua existência. Contudo, ainda sente falta de um grande amor.",
-    "rating": 7.9
+    "rating": 7.9,
+    "trailer": {
+      "key": "cYLFIJiFIjc",
+      "name": "Filme: O Fabuloso Destino de Amélie Poulain - Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/cYLFIJiFIjc",
+      "watchUrl": "https://www.youtube.com/watch?v=cYLFIJiFIjc"
+    }
   },
   {
     "title": "Cinema Paradiso",
@@ -767,7 +1299,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/kkmwHNAiCea2QGX6kgPmdDKaWyp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
     "overview": "Um diretor de cinema relembra como, em sua infância, se apaixonou pelo filmes no cinema de seu vilarejo e iniciou uma profunda amizade com o projetista.",
-    "rating": 8.4
+    "rating": 8.4,
+    "trailer": {
+      "key": "S7GZlpJNOQ8",
+      "name": "Trailer Cinema Paradiso [1988] legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/S7GZlpJNOQ8",
+      "watchUrl": "https://www.youtube.com/watch?v=S7GZlpJNOQ8"
+    }
   },
   {
     "title": "A Vida e Bela",
@@ -777,7 +1316,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/dkK48wCY4aVpWFDdPpS6DxQ1bvB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
     "overview": "Durante a Segunda Guerra Mundial na Itália, o judeu Guido e seu filho Giosué são levados para um campo de concentração nazista. Afastado da mulher, ele tem que usar sua imaginação para fazer o menino acreditar que estão participando de uma grande brincadeira, com o intuito de protegê-lo do terror e da violência que os cercam.",
-    "rating": 8.4
+    "rating": 8.4,
+    "trailer": {
+      "key": "2MPGncRcZwk",
+      "name": "A Vida é Bela | Trailer (Teaser) | Dublado (Brasil) (FHD)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/2MPGncRcZwk",
+      "watchUrl": "https://www.youtube.com/watch?v=2MPGncRcZwk"
+    }
   },
   {
     "title": "Os Intocaveis",
@@ -785,9 +1331,16 @@
     "tmdbTitle": "Os Intocáveis",
     "year": 1987,
     "poster": "https://image.tmdb.org/t/p/w500/l0Xqmj5zW5QIw3437VkP1bFHMfr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sF2REAiVUcN90lrMeLfmEuHJl4B.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i1oWUGVDNBhGBykcCRBlX326udb.jpg",
     "overview": "Na Chicago dos anos 1930, o jovem agente federal Eliot Ness tenta acabar com o reinado de terror e corrupção instaurado pelo gângster Al Capone. Para isso, ele recruta um pequeno time de corajosos e incorruptíveis homens e conta com a ajuda do experiente policial Jim Malone.",
-    "rating": 7.8
+    "rating": 7.8,
+    "trailer": {
+      "key": "YbzkK06MJjE",
+      "name": "The Untouchables - Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/YbzkK06MJjE",
+      "watchUrl": "https://www.youtube.com/watch?v=YbzkK06MJjE"
+    }
   },
   {
     "title": "O Segredo dos Seus Olhos",
@@ -797,7 +1350,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/pefOYP69bB3ZC6p6B3ZbWc46ioT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/fNHCogWhABNAmzk0IFdzQP5XLYj.jpg",
     "overview": "Benjamín Espósito trabalhou a vida toda em um Tribunal de Justiça e agora aposentado tem a chance de escrever sobre a investigação de um assassinato que acabou mudando sua vida anos atrás.",
-    "rating": 8
+    "rating": 8,
+    "trailer": {
+      "key": "pSSxSp-lsf0",
+      "name": "O Segredo dos Seus Olhos (Legendado)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/pSSxSp-lsf0",
+      "watchUrl": "https://www.youtube.com/watch?v=pSSxSp-lsf0"
+    }
   },
   {
     "title": "Relatos Selvagens",
@@ -807,7 +1367,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/bkhHsHoa5PYBmhT93mYOC28Hhd2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
     "overview": "Seis contos que exploram os extremos do comportamento humano envolvendo pessoas em desespero.",
-    "rating": 7.9
+    "rating": 7.9,
+    "trailer": {
+      "key": "VQM4BxppAqw",
+      "name": "Relatos Selvagens - Trailer Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/VQM4BxppAqw",
+      "watchUrl": "https://www.youtube.com/watch?v=VQM4BxppAqw"
+    }
   },
   {
     "title": "A Separacao",
@@ -817,7 +1384,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/9ZqTLlVduPBCOhRRLL83rxnJMmc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/kcXBa2ru0PXcGI8U3JiInsG6FRR.jpg",
     "overview": "Simin deseja mudar-se para garantir um futuro melhor para a família, mas seu marido Nader não quer por causa do pai doente. Ela entra com um pedido de separação e Nader contrata Razieh para cuidar de seu pai enquanto trabalha. Certo dia ao voltar para casa encontra o pai sozinho, desmaiado e amarrado à cama; Razieh aparece e os dois discutem, na sequência Nader empurra a mulher e dias depois, é notificado que Razieh estava grávida e teria perdido o bebê. Os dois terão que resolver a situação na justiça, e tem pontos de vista muito diferentes do que aconteceu durante a briga.",
-    "rating": 7.9
+    "rating": 7.9,
+    "trailer": {
+      "key": "58Onuy5USTc",
+      "name": "A Separation | Official Trailer HD (2011)",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/58Onuy5USTc",
+      "watchUrl": "https://www.youtube.com/watch?v=58Onuy5USTc"
+    }
   },
   {
     "title": "Drive",
@@ -827,7 +1401,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/iymDDg4upZWgpbSeiE1JCjsSPBs.jpg",
     "overview": "Um motorista habilidoso é dublê em Hollywood e piloto de fuga em assaltos. Quando aceita ajudar o marido de sua vizinha Irene, fica na mira dos homens mais perigosos de LA. Mas o trabalho dá errado, e a única forma de garantir a segurança de Irene e do filho é fazer o que ele faz de melhor: dirigir.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "J8lZi3ocbYk",
+      "name": "Drive (2011) Original Trailer [FHD]",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/J8lZi3ocbYk",
+      "watchUrl": "https://www.youtube.com/watch?v=J8lZi3ocbYk"
+    }
   },
   {
     "title": "O Abutre",
@@ -837,7 +1418,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/4dJp8HOCyr7gwiBijhBG46qf7vU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/bdI6U1mT0kCdTJ6TWtiFxQ42GSn.jpg",
     "overview": "Enfrentando dificuldades para conseguir um emprego formal, o jovem Louis Bloom decide entrar no agitado submundo do jornalismo criminal independente de Los Angeles. A fórmula é correr atrás de crimes e acidentes chocantes, registrar tudo e vender a história para veículos interessados.",
-    "rating": 7.7
+    "rating": 7.7,
+    "trailer": {
+      "key": "GSBjOblQCIc",
+      "name": "O Abutre (2014) Trailer Legendando",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/GSBjOblQCIc",
+      "watchUrl": "https://www.youtube.com/watch?v=GSBjOblQCIc"
+    }
   },
   {
     "title": "Os Suspeitos",
@@ -847,7 +1435,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/30YtzPOimO7eG30r8K8rUkqTGNj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
     "overview": "Depois que sua filha de seis anos e uma amiga dela são sequestradas, Keller Dove, um carpinteiro de Boston, enfrenta o departamento de polícia e o jovem detetive encarregado do caso para fazer justiça com as próprias mãos.",
-    "rating": 8.1
+    "rating": 8.1,
+    "trailer": {
+      "key": "1GwPisQUuL4",
+      "name": "Os Suspeitos - Trailer Oficial (legendado)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/1GwPisQUuL4",
+      "watchUrl": "https://www.youtube.com/watch?v=1GwPisQUuL4"
+    }
   },
   {
     "title": "A Chegada",
@@ -857,7 +1452,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/3rDwbFpn6z5HJUgDjpfhEePx8VI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/uKPbFF08QkRMvIAsgCh1soeyPhZ.jpg",
     "overview": "Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks, uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça. No entanto, a resposta para todas as perguntas e mistérios coloca em risco  a vida de Louise e a de toda a humanidade.",
-    "rating": 7.6
+    "rating": 7.6,
+    "trailer": {
+      "key": "isWwUJf4KEA",
+      "name": "A Chegada | Trailer Dublado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/isWwUJf4KEA",
+      "watchUrl": "https://www.youtube.com/watch?v=isWwUJf4KEA"
+    }
   },
   {
     "title": "Sicario: Terra de Ninguem",
@@ -867,7 +1469,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/iz8j7Cii58IzvYq4YQeMNXiwE7B.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
     "overview": "Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo que a escalam em seu plano para derrotar o chefe de um cartel mexicano.",
-    "rating": 7.4
+    "rating": 7.4,
+    "trailer": {
+      "key": "d_eClLFILT8",
+      "name": "Sicario: Terra de Ninguém - Trailer Oficial Legendado",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/d_eClLFILT8",
+      "watchUrl": "https://www.youtube.com/watch?v=d_eClLFILT8"
+    }
   },
   {
     "title": "O Grande Truque",
@@ -877,7 +1486,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/4AUW2bGbQjWACUREckGJWXmyF0d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/z3br1ub7spqGMkxgjgJSdM4DC21.jpg",
     "overview": "No século 19, em Londres, dois amigos ilusionistas e mágicos, Alfred Borden e Rupert Angier, acabam construindo uma rivalidade, uma batalha por supremacia, que se estende ao longo dos anos e que se transforma em obsessão, cujos resultados serão inevitavelmente trágicos.",
-    "rating": 8.2
+    "rating": 8.2,
+    "trailer": {
+      "key": "ijXruSzfGEc",
+      "name": "The Prestige - Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/ijXruSzfGEc",
+      "watchUrl": "https://www.youtube.com/watch?v=ijXruSzfGEc"
+    }
   },
   {
     "title": "Amnesia",
@@ -887,7 +1503,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/7leBWM27Q0TUnvmhw6WnFNgGn4G.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
     "overview": "Leonard está caçando o homem que estuprou e matou sua esposa. Ele tem dificuldades em encontrar o assassino pois sofre de uma forma intratável de perda de memória. Mesmo que ele possa lembrar detalhes da vida antes do acidente, Leonard não consegue lembrar o que aconteceu quinze minutos atrás, onde está indo ou a razão.",
-    "rating": 8.2
+    "rating": 8.2,
+    "trailer": {
+      "key": "l2YlJ-czpw8",
+      "name": "Amnésia (Trailer Legendado)(Memento)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/l2YlJ-czpw8",
+      "watchUrl": "https://www.youtube.com/watch?v=l2YlJ-czpw8"
+    }
   },
   {
     "title": "Dunkirk",
@@ -897,7 +1520,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/mXJOgvCZm4PJ9I4zEbAH3CVCjfa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
     "overview": "Durante a Segunda Guerra Mundial, em maio de 1940, cerca de 400.000 soldados britânicos, franceses e belgas viram-se cercados pelas tropas alemãs na bolsa de Dunquerque. A Operação Dínamo foi lançada para evacuar a Força Expedicionária Britânica para Inglaterra. A história segue os destinos entrelaçados de soldados, pilotos, marinheiros e civis britânicos durante a evacuação de Dunquerque.",
-    "rating": 7.5
+    "rating": 7.5,
+    "trailer": {
+      "key": "yHS0vaex9PM",
+      "name": "Dunkirk - Trailer Oficial (legendado)",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/yHS0vaex9PM",
+      "watchUrl": "https://www.youtube.com/watch?v=yHS0vaex9PM"
+    }
   },
   {
     "title": "Os Imperdoaveis",
@@ -907,7 +1537,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/kmMDDCOB8xPCrmFW7w9zqgymCWJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/rvRGFevvZK48onX0PYI1eQLbuJd.jpg",
     "overview": "Bill Munny, um pistoleiro aposentado, volta à ativa quando lhe oferecem 1000 dólares para matar os homens que cortaram o rosto de uma prostituta. Neste serviço dois outros pistoleiros o acompanham e eles precisam se confrontar com um inglês, que também deseja a recompensa e um xerife, que não deseja tumulto em sua cidade.",
-    "rating": 7.9
+    "rating": 7.9,
+    "trailer": {
+      "key": "amE57OniG9Y",
+      "name": "Theatrical Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/amE57OniG9Y",
+      "watchUrl": "https://www.youtube.com/watch?v=amE57OniG9Y"
+    }
   },
   {
     "title": "Onde os Fracos Nao Tem Vez",
@@ -917,7 +1554,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
     "overview": "Quando um homem se depara com a sangrenta cena de um crime, uma caminhonete carregada de heroína e irresistíveis dois milhões de dólares, sua decisão de levar o dinheiro deflagra uma interminável e violenta reação em cadeia, que nem a lei do Oeste do Texas pode deter.",
-    "rating": 8
+    "rating": 8,
+    "trailer": {
+      "key": "Cc0mZzu6R_4",
+      "name": "Onde Os Fracos Não Têm Vez",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/Cc0mZzu6R_4",
+      "watchUrl": "https://www.youtube.com/watch?v=Cc0mZzu6R_4"
+    }
   },
   {
     "title": "Fargo",
@@ -927,7 +1571,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/JrnxuijI6XCKyZaiPPrJ3TbZi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/747dgDfL5d8esobk7h4odaOFhUq.jpg",
     "overview": "Jerry Lundegaard é um vendedor de carros que se endividou e está desesperado por dinheiro. Ele contrata dois bandidos para sequestrar sua própria esposa e seu sogro o ajuda a pagar o resgate. Tudo acontece como o planejado até o momento em que os bandidos atiram em um policial.",
-    "rating": 7.8
+    "rating": 7.9,
+    "trailer": {
+      "key": "aoOZDiswNaw",
+      "name": "Official Trailer #2",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/aoOZDiswNaw",
+      "watchUrl": "https://www.youtube.com/watch?v=aoOZDiswNaw"
+    }
   },
   {
     "title": "O Grande Lebowski",
@@ -937,7 +1588,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/uJNhSEVXNtdZ7Ez5Pye1ZYeMjoe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/hXsy4XCCHrUk81XoRhcooyWejao.jpg",
     "overview": "Em Los Angeles, 1991, Jeff Lebowski, mais conhecido como \"O Cara\", é um desocupado que gasta o seu tempo ouvindo rock dos anos 1960 e jogando boliche. Mas sua vida vai mudar. Confundido com um milionário da Califórnia, ele se vê envolvido com bandidos da pesada, advogados atrapalhados, detetives, sequestradores e, como se não bastasse, com a polícia. Com sua vida ameaçada, Lebowski procura seu amigo Walter, um veterano da Guerra do Vietnã que irá ajudá-lo com seus métodos pouco ortodoxos.",
-    "rating": 7.8
+    "rating": 7.8,
+    "trailer": {
+      "key": "GiwMMziJdqg",
+      "name": "Park Circus Official Trailer",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/GiwMMziJdqg",
+      "watchUrl": "https://www.youtube.com/watch?v=GiwMMziJdqg"
+    }
   },
   {
     "title": "A Bruxa",
@@ -947,7 +1605,8 @@
     "poster": "https://image.tmdb.org/t/p/w500/9Gja4TpJkL1rds1Jzczf6Jl2sVF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/garmQXZHV59h8g3A4w0DgmfTqyY.jpg",
     "overview": "Uma familia puritana isolada enfrenta paranoia, fe e horror nas margens da floresta.",
-    "rating": 4.1
+    "rating": 4.1,
+    "trailer": null
   },
   {
     "title": "O Farol",
@@ -957,7 +1616,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/zdowK9GrOxK0YddhXuMPyxnTA02.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
     "overview": "Início do século XX. Thomas Wake, responsável pelo farol de uma ilha isolada, contrata o jovem Ephraim Winslow para substituir o ajudante anterior e colaborar nas tarefas diárias. No entanto, o acesso ao farol é mantido fechado ao novato, que se torna cada vez mais curioso com este espaço privado. Enquanto os dois homens se conhecem e se provocam, Ephraim fica obcecado em descobrir o que acontece naquele espaço fechado, ao mesmo tempo em que fenômenos estranhos começam a acontecer ao seu redor.",
-    "rating": 7.5
+    "rating": 7.5,
+    "trailer": {
+      "key": "rwExUiQzCD0",
+      "name": "O FAROL | Trailer Oficial",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/rwExUiQzCD0",
+      "watchUrl": "https://www.youtube.com/watch?v=rwExUiQzCD0"
+    }
   },
   {
     "title": "Midsommar",
@@ -967,7 +1633,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/hR4dXPlWq5Nekwjqbp3gFGeiiZS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/pYgj8e2Y6RufnSyOA6OnzmxFXxZ.jpg",
     "overview": "Dani e Christian formam um jovem casal americano com um relacionamento prestes a desmoronar. Mas depois que uma tragédia familiar os mantém juntos, Dani, que está de luto, convida-se para se juntar a Christian e seus amigos em uma viagem para um festival de verão único em uma remota vila sueca. O que começa como férias despreocupadas de verão em uma terra de luz eterna toma um rumo sinistro quando os moradores do vilarejo convidam o grupo a participar de festividades que tornam o paraíso pastoral cada vez mais preocupante e visceralmente perturbador.",
-    "rating": 7.2
+    "rating": 7.2,
+    "trailer": {
+      "key": "7xWTBgi67sA",
+      "name": "Trailer #2",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/7xWTBgi67sA",
+      "watchUrl": "https://www.youtube.com/watch?v=7xWTBgi67sA"
+    }
   },
   {
     "title": "Hereditario",
@@ -977,7 +1650,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/wonYMeHauhrxSi5UTOtj5L479mS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
     "overview": "Após a morte da reclusa avó, a família Graham começa a desvendar algumas coisas. Mesmo após a partida da matriarca, ela permanece como se fosse uma sombra sobre a família, especialmente sobre a solitária neta adolescente, Charlie, por quem ela sempre manteve uma fascinação não usual. Com um crescente terror tomando conta da casa, a família explora lugares mais escuros para escapar do infeliz destino que herdaram.",
-    "rating": 7.3
+    "rating": 7.3,
+    "trailer": {
+      "key": "MJNR58zaStE",
+      "name": "Official Trailer #2",
+      "language": "en-US",
+      "embedUrl": "https://www.youtube.com/embed/MJNR58zaStE",
+      "watchUrl": "https://www.youtube.com/watch?v=MJNR58zaStE"
+    }
   },
   {
     "title": "Barbie",
@@ -985,9 +1665,16 @@
     "tmdbTitle": "Barbie",
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3N5QNUqS76GFYNoEayfkkJyAyTN.jpg",
     "overview": "No mundo mágico das Barbies, \"Barbieland\", uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza está no interior de cada um.",
-    "rating": 6.9
+    "rating": 6.9,
+    "trailer": {
+      "key": "MQHzdpnOq48",
+      "name": "Barbie | Trailer Oficial | Prime Video",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/MQHzdpnOq48",
+      "watchUrl": "https://www.youtube.com/watch?v=MQHzdpnOq48"
+    }
   },
   {
     "title": "Adoraveis Mulheres",
@@ -997,6 +1684,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
     "overview": "As irmãs Jo, Beth, Meg e Amy amadurecem na virada da adolescência para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras.",
-    "rating": 7.9
+    "rating": 7.9,
+    "trailer": {
+      "key": "7nc1GE_hnLs",
+      "name": "Adoráveis Mulheres | Trailer Legendado | Breve nos cinemas",
+      "language": "pt-BR",
+      "embedUrl": "https://www.youtube.com/embed/7nc1GE_hnLs",
+      "watchUrl": "https://www.youtube.com/watch?v=7nc1GE_hnLs"
+    }
   }
 ]

@@ -73,6 +73,46 @@ async function searchMovie(movie, apiKey) {
   return pickBestResult(payload.results, movie);
 }
 
+function pickBestTrailer(videos) {
+  if (!Array.isArray(videos) || videos.length === 0) return null;
+
+  const youtubeVideos = videos.filter((video) => video.site === 'YouTube');
+  const trailers = youtubeVideos.filter((video) => video.type === 'Trailer');
+  const candidates = trailers.length > 0 ? trailers : youtubeVideos;
+
+  return candidates.find((video) => video.official) ?? candidates[0] ?? null;
+}
+
+async function fetchTrailer(movieId, apiKey) {
+  const languages = ['pt-BR', 'en-US'];
+
+  for (const language of languages) {
+    const url = new URL(`https://api.themoviedb.org/3/movie/${movieId}/videos`);
+    url.searchParams.set('api_key', apiKey);
+    url.searchParams.set('language', language);
+
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`TMDb respondeu ${response.status} ao buscar videos do filme ${movieId}`);
+    }
+
+    const payload = await response.json();
+    const trailer = pickBestTrailer(payload.results);
+
+    if (trailer) {
+      return {
+        key: trailer.key,
+        name: trailer.name,
+        language,
+        embedUrl: `https://www.youtube.com/embed/${trailer.key}`,
+        watchUrl: `https://www.youtube.com/watch?v=${trailer.key}`,
+      };
+    }
+  }
+
+  return null;
+}
+
 async function main() {
   await loadEnv();
   const apiKey = process.env.TMDB_API_KEY;
@@ -93,6 +133,8 @@ async function main() {
       continue;
     }
 
+    const trailer = await fetchTrailer(result.id, apiKey);
+
     synced.push({
       title: movie.title,
       tmdbId: result.id,
@@ -102,6 +144,7 @@ async function main() {
       backdrop: result.backdrop_path ? `${imageBaseUrl}/w1280${result.backdrop_path}` : null,
       overview: result.overview || movie.description,
       rating: result.vote_average ? Number(result.vote_average.toFixed(1)) : movie.rating,
+      trailer,
     });
 
     process.stdout.write(`Sincronizado ${index + 1}/${catalog.length}: ${movie.title}\n`);
