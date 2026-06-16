@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import {
   Calendar,
@@ -240,6 +240,7 @@ function formatDuration(minutes) {
 }
 
 function App() {
+  const toolbarRef = useRef(null);
   const [query, setQuery] = useState('');
   const [genre, setGenre] = useState('Todos');
   const [status, setStatus] = useState('Todos');
@@ -307,6 +308,30 @@ function App() {
       window.removeEventListener('keydown', handleKeyDown);
     };
   }, [detailMovie, trailerMovie]);
+
+  useEffect(() => {
+    if (!openFilter) return undefined;
+
+    function handlePointerDown(event) {
+      if (!toolbarRef.current?.contains(event.target)) {
+        setOpenFilter(null);
+      }
+    }
+
+    function handleKeyDown(event) {
+      if (event.key === 'Escape') {
+        setOpenFilter(null);
+      }
+    }
+
+    document.addEventListener('pointerdown', handlePointerDown);
+    window.addEventListener('keydown', handleKeyDown);
+
+    return () => {
+      document.removeEventListener('pointerdown', handlePointerDown);
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [openFilter]);
 
   function toggleFavorite(movieId) {
     setFavorites((current) => {
@@ -427,7 +452,7 @@ function App() {
           </div>
         </div>
 
-        <div className="toolbar" aria-label="Filtros do catalogo">
+        <div className="toolbar" aria-label="Filtros do catalogo" ref={toolbarRef}>
           <label className="search-field">
             <Search size={18} />
             <input
@@ -454,16 +479,16 @@ function App() {
             </button>
             {openFilter === 'genre' && (
               <div className="filter-menu">
-              {genres.map((item) => (
-                <button
-                  className={genre === item ? 'active' : ''}
-                  key={item}
-                  onClick={() => chooseFilter('genre', item)}
-                  type="button"
-                >
-                  {item === 'Todos' ? 'Todos os generos' : item}
-                </button>
-              ))}
+                {genres.map((item) => (
+                  <button
+                    className={genre === item ? 'active' : ''}
+                    key={item}
+                    onClick={() => chooseFilter('genre', item)}
+                    type="button"
+                  >
+                    {item === 'Todos' ? 'Todos os generos' : item}
+                  </button>
+                ))}
               </div>
             )}
           </div>
@@ -484,16 +509,16 @@ function App() {
             </button>
             {openFilter === 'status' && (
               <div className="filter-menu">
-              {statusOptions.map((item) => (
-                <button
-                  className={status === item ? 'active' : ''}
-                  key={item}
-                  onClick={() => chooseFilter('status', item)}
-                  type="button"
-                >
-                  {item === 'Todos' ? 'Todos os status' : item}
-                </button>
-              ))}
+                {statusOptions.map((item) => (
+                  <button
+                    className={status === item ? 'active' : ''}
+                    key={item}
+                    onClick={() => chooseFilter('status', item)}
+                    type="button"
+                  >
+                    {item === 'Todos' ? 'Todos os status' : item}
+                  </button>
+                ))}
               </div>
             )}
           </div>
